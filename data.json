@@ -1,0 +1,18 @@
+[	
+    {	"title": "1. El autografo",
+      "objectives": "Objetivos: Conocerse",
+      "image": "./images/autografo.webp",
+      "description": "Cada jugador desafia a otro jugador en cachipun, el que pierde registra sus datos (nombre, carrera, comida favorita y hobby) en alguna casilla disponible del otro jugador. El primer jugador en obtener 9 casillas rellenadas, gana."
+    },
+    {	"title": "2. Loteria de nombres",
+      "objectives": "Objetivos: Presentarse",
+      "image": "./images/loteria_de_nombres.jpg",
+      "description": "Una persona se encarga de nombrar numeros al azar, igual que en un bingo. Si un jugador tiene el numero nombrado, debe presentarse con los datos del juego el autografo. El resto de jugadores tiene que marcar en su tablero a los jugadores que se han presentado. Si marca nueve nombres, grita bingo y gana el juego."
+    },
+    {	"title": "3. Aplauso del tren",
+      "objectives": "Objetivos: Coordinación grupal",
+      "image": "./images/aplauso_del_tren.png",
+      "description": "Los participantes se dividen en dos grupos con la misma cantidad de participantes. Una persona que no pertenezca a los grupos, dirige a los dos grupos con 3 movimientos. Los dos grupos tienen que coordinarse para realizar los movimientos al mismo tiempo."
+    }
+
+]
