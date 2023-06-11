@@ -13,6 +13,105 @@
       "objectives": "Objetivos: Coordinación grupal",
       "image": "./images/aplauso_del_tren.png",
       "description": "Los participantes se dividen en dos grupos con la misma cantidad de participantes. Una persona que no pertenezca a los grupos, dirige a los dos grupos con 3 movimientos. Los dos grupos tienen que coordinarse para realizar los movimientos al mismo tiempo."
+    },
+    {	"title": "4. Toque y fama",
+      "objectives": "Objetivos: Memoria, Concentración",
+      "image": "./images/toque_y_fama.webp",
+      "description": "Dos jugadores se enfrentan escondiendo cada uno, una secuencia de cuatro números. En cada ronda, un jugador intenta adivinar la secuencia del otro. Si el jugador acierta un número, pero no la posición correcta, se dice que tiene un toque. En cambio, si acierta el número y la posición, tiene una fama. Uno de los jugadores gana cuando acierta toda la secuencia correctamente, es decir, 4 famas."
+    },
+    {	"title": "5. Aplauso de la pulguita",
+      "objectives": "Objetivos: Coordinación grupal, Imitación",
+      "image": "./images/aplauso_pulguita.jpeg",
+      "description": "Los participantes cantan según un ritmo enseñado por el instructor y ejecutan diferentes acciones según el momento de la canción."
+    },
+    {	"title": "6. ¿Cuantas ovejas bajan del cerro'",
+      "objectives": "Objetivos: Percepción auditiva y visual, razonamiento",
+      "image": "./images/ovejas_cerro.jpeg",
+      "description": "El instructor realiza una serie de movimientos y luego pregunta: ¿Cuántas ovejas bajan del cerro?. Los participantes tienen que adivinar cuantas son según algún patrón."
+    },
+    {	"title": "7. El piti piti",
+      "objectives": "Objetivos: Percepción auditiva y visual, razonamiento",
+      "image": "./images/piti_piti.jpeg",
+      "description": "El instructor hace un sonido con algún patrón mientras toca cada uno de sus dedos. Los participantes tienen que imitar el mismo patrón de sonido y dedos."
+    },
+    {	"title": "8. ¿Con que no dejan entrar al cine?",
+      "objectives": "Objetivos: Percepción auditiva, razonamiento",
+      "image": "./images/cine_cosas.jpeg",
+      "description": "El instructor nombra dos objetos, uno que si se puede usar en el cine y el otro no. Los participantes tienen que adivinar y encontrar el patrón sobre los objetos que se pueden usar en el cine y los que no se puede."
+    },
+    {	"title": "9. Cachipun gigante",
+      "objectives": "Objetivos: Toma de decision, estrategia, liderazgo, coordinación grupal",
+      "image": "./images/cachipun_gigante.jpeg",
+      "description": "Los participantes se dividen en dos grupos con la misma cantidad de participantes. En grupo, deciden que acción del cachipun normal van a elegir y la representan al enfrentarse al otro grupo. El equipo que gana 5 rondas, es el ganador."
+    },
+    {	"title": "10. Cachipun suma",
+      "objectives": "Objetivos: Aprender a sumar, estrategia",
+      "image": "./images/cachipum_suma.jpeg",
+      "description": "Se enfrentan dos individuos. Cada individuo tiene que esconder su mano y sacarla al momento de hacer cachipun. Al sacarla, tiene que mostrar una cantidad de dedos y decir cuál piensa que es la cantidad de dedos en total entre las dos manos (la del rival y la suya). El jugador que acierte cinco veces, es el ganador. "
+    },
+    {	"title": "11. Juan Jose Hornilla",
+      "objectives": "Objetivos: Coordinacion, memoria",
+      "image": "./images/juan_jose_hornilla.jpeg",
+      "description": "Los participantes tienen que continuar la historia de Juan Jose Hornilla, cada uno diciendo una palabra."
+    },
+    {	"title": "12. Ameba",
+      "objectives": "Objetivos: Tolerancia a la frustración, estrategia",
+      "image": "./images/ameba.jpg",
+      "description": "Todos los participantes parten siendo amebas y van evolucionando hasta ser Superman. Para evolucionar, un participante tiene que ganarle en cachipun a otro participante que sea de la misma especie. El participante que pierda en un cachipun tiene que volver a una especie anterior."
+    },
+    {	"title": "13. Agrupados",
+      "objectives": "Objetivos: Comunicación no verbal",
+      "image": "./images/agrupados.webp",
+      "description": "Los participantes se agrupan según la consigna del instructor. Sin embargo, los participantes no pueden hablar entre ellos."
+    },
+    { "title": "34. Rayuela zapato",
+      "objectives": "Objetivos: Trabajo en equipo y desarrollo habilidad de lanzamiento",
+      "image": "./images/rayuela.png",
+      "description": "Los participantes se paran en grupos y de forma individual lanzan con el pie su zapato, con el fin de que caiga en el área designa y lograr ganar puntaje por cada zapato dentro del área, gana el equipo que logro tener una mayor cantidad de zapatos dentro."
+    },
+    {	"title": "35. 4 esquinas",
+      "objectives": "Objetivos: Trabajo en equipo, estrategia y desarrollo de la agilida",
+      "image": "./images/4_esquinas.png",
+      "description": "Consiste en que los participantes se agrupan en 5 equipos, en donde 4 parten en un esquina y uno en el centro, luego deben cambiar de posición a una esquina diferente evitando quedar en el centro, si luego de partir quedan en el centro se les descuenta 1 de su puntaje y gana el equipo con puntaje más cercano a 0."
+    },
+    {	"title": "36. Calle Avenida",
+      "objectives": "Objetivos: Estrategia y velocidad de reaccion",
+      "image": "./images/calle_avenida.png",
+      "description": "Consiste en que 2 participantes, uno escapa y el otro atrapa, en un laberinto que es formado por el resto de las personas cuando se toman de las manos, en donde este cambia su configuración cuando se dice la palabra calle o avenida"
+    },
+    {	"title": "37. Hospital",
+      "objectives": "Objetivos: Trabajo en equipo, desarrollo de estrategia y habilidades motoras",
+      "image": "./images/hospital.jpg",
+      "description": "Consiste en que uno o un grupo de participantes debe tocar al resto de los participantes, mientras ellos escapan, pero si son tocado deben tumbarse en el suelo y para poder reintegrarse al juego otras cuatro personas tendrás que trasladarlo por sus extremidades hasta la zona segura, cuando se encuentren afirmando una extremidad de alguno tumbado no podrán ser tocados, acaba el juego cuando solo queden 3 personas sin tumbar."
+    },
+    {	"title": "38. Aram sam Sam",
+      "objectives": "Objetivos: Coordinación y atención de los participantes",
+      "image": "./images/aram_sam.jpg",
+      "description": "Consiste en que los participantes forman un círculo, para luego cantar una canción mientras realizan movimientos en las personas que tienen a su lado"
+    },
+    {	"title": "39. El suero del profesor Ibañez",
+      "objectives": "Objetivos: Trabajo en equipo, comunicación y habilidades cognitivas",
+      "image": "./images/suero.jpg",
+      "description": "Consiste en un scape room, el cual se realiza en parejas, en el que se resuelven desafíos de forma colaborativa, porque como es en parejas cada jugador toma el rol de un agente diferente, en donde finaliza cuando logran conseguir el suero"
+    },
+    {	"title": "40. Cachipún alemán",
+      "objectives": "Objetivos: Trabajo en equipo, estrategia y desarrollo de agilidad",
+      "image": "./images/capichum_aleman.png",
+      "description": "Consiste en que se dividen en dos grupo y se separan en dos hileras y tendrán que correr un distancia, hasta toparse con su adversario y juegan al cachipun, el ganador sigue corriendo y el perdedor se devuelve para que salga otro del equipo, se gana un punto cuando se llega al área del equipo rival. "
+    },
+    {	"title": "41. Cachipún alemán asesino",
+      "objectives": "Objetivos: Trabajo en equipo, estrategia y desarrollo de agilidad",
+      "image": "./images/aleman_asesino.png",
+      "description": "Consiste en que se dividen en dos grupo y se separan en dos hileras y tendrán que correr un distancia, hasta toparse con su adversario y juegan al cachipun, el ganador sigue corriendo y el perdedor se tumba en el piso para que salga otro del equipo perdedor, se gana un punto cuando se llega al área del equipo rival y si alguien del mismo equipo salta sobre alguien tumbado esa persona puede volver a reintegrarse al juego."
+    },
+    {	"title": "42. Fusilamiento",
+      "objectives": "Objetivos: Trabajo en equipo, estrategia y desarrollo de agilidad",
+      "image": "./images/fusilamiento.jpg",
+      "description": " Consiste en que se dividen en dos grupo y se separan en dos hileras y tendrán que correr un distancia con un vaso con agua, hasta toparse con su adversario y juegan al cachipun, el ganador le lanza el agua al perdedor y sigue corriendo con el vaso del rival, el perdedor se devuelve para que salga otro del equipo, se gana un punto cuando se llega al área del equipo rival."
+    },
+    {	"title": "43. La tubería",
+      "objectives": "Objetivos: Trabajo en equipo, estrategia y desarrollo de agilidad",
+      "image": "./images/tuberia.png",
+      "description": " Consiste en que cada participante usa un trozo de tubo y se dividen en grupos, para que mediante el uso de las tuberías logren trasladar agua una distancia determinada y depositarla en un envase, gana el grupo que logro recolectar mayor cantidad de agua transcurrido el tiempo."
     }
-
 ]
