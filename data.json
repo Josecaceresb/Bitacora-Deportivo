@@ -49,7 +49,7 @@
       "image": "./images/cachipum_suma.jpeg",
       "description": "Se enfrentan dos individuos. Cada individuo tiene que esconder su mano y sacarla al momento de hacer cachipun. Al sacarla, tiene que mostrar una cantidad de dedos y decir cuál piensa que es la cantidad de dedos en total entre las dos manos (la del rival y la suya). El jugador que acierte cinco veces, es el ganador. "
     },
-    {	"title": "11. Juan Jose Hornilla",
+    {	"title": "11. Juan Jose Bonilla",
       "objectives": "Objetivos: Coordinacion, memoria",
       "image": "./images/juan_jose_hornilla.jpeg",
       "description": "Los participantes tienen que continuar la historia de Juan Jose Hornilla, cada uno diciendo una palabra."
@@ -64,13 +64,113 @@
       "image": "./images/agrupados.webp",
       "description": "Los participantes se agrupan según la consigna del instructor. Sin embargo, los participantes no pueden hablar entre ellos."
     },
+    {	"title": "14. Guerra de canciones",
+      "objectives": "Objetivos: Creatividad, coordinación, trabajo en equipo, velocidad de reacción",
+      "image": "./images/guerra_canciones.png",
+      "description": "Es un juego de competencia. Se forman varios grupos, los cuales tendrán que pensar rápidamente y ponerse de acuerdo en unos 10-30 segundos para cantar parte de una canción que contenga alguna temática (palabra, idea) dictada por el moderador o guía del juego, como por ejemplo: animales, nombres, países, etc.; la idea de esto es que si el equipo no se pone de acuerdo, no canta al unísono u alguno de sus integrantes se equivoca, pierde y queda suspendido en la ronda correspondiente con la temática puesta, el ultimo equipo que quede en esa ronda, gana un punto, el equipo que tenga más puntos al final, gana el juego"
+    },
+    {	"title": "15. Contando hasta 15",
+      "objectives": "Objetivos: Trabajo en equipo, coordinación, velocidad de reacción, concentración",
+      "image": "./images/contando_15.jpg",
+      "description": "Un grupo de personas deberá contar consecutivamente hasta 15 entre todos los integrantes de este, mencionando un número a la vez, si dos o más integrantes del grupo mencionan algún número correspondiente al mismo tiempo, se reinicia el juego y se parte de 0, el objetivo es llegar hasta el número 15, para así ganar."
+    },
+    {	"title": "16. Amitzy Chami Chami",
+      "objectives": "Objetivos: Coordinación, habilidades motrices individuales y en conjunto",
+      "image": "./images/amitzy.jpg",
+      "description": "Es un juego para realizar en grupo, sin embargo, se necesitará que una persona guie al grupo con el ritmo de Amitzy Chami Chami e ir dando vuelta la circunferencia de personas (de manera de trasladarse al ritmo de la canción), puede ser de los codos, manos, tobillos, cintura, y orejas."
+    },
+    {	"title": "17. Pan para Pan",
+      "objectives": "Objetivos: Coordinación, llamar la atención y ponerse alerta",
+      "image": "./images/pan_pan.jpg",
+      "description": "Una persona guiara el juego, este se coloca frente a todos y realiza ciertas acciones para que las demás personas respondan a estas; si levanta la mano en un puño, deben gritar pan y si levanta la otra mano abierta, deben gritar para pan."
+    },
+    {	"title": "18. El viudo/a",
+      "objectives": "Objetivos: Velocidad de reacción, rapidez, atención",
+      "image": "./images/viudo.png",
+      "description": "Todos los participantes estarán sentados de a pares, cada pareja se pondrá de la siguiente forma: uno sentado, y el otro detrás de este (puede estar sentado o parado), y solo una persona en el grupo de participantes no tendrá pareja. Entonces, esta persona sin pareja deberá hacerle señales a través de contacto visual o un guiño a alguno de los integrantes de las otras parejas que este sentado delante, a lo cual este último deberá reaccionar rápidamente y abandonar a su pareja para ir a sentarse delante de la persona que anteriormente estaba solo, la persona que este detrás del que se intenta escapar, deberá reaccionar rápidamente para retenerlo y evitar que se vaya."
+    },
+    {	"title": "19. Bitcoin",
+      "objectives": "Objetivos: Rapidez, velocidad, atención a su alrededor, estrategia, percepción",
+      "image": "./images/bitcoin.jpg",
+      "description": "Todos los jugadores estarán en un espacio delimitado y habrá una persona que repartirá bitcoins, los bitcoins representan puntos. Cada participante del juego (excepto el encargado de los bitcoins) deberá tener un pañuelo amarrado desde la cintura/cadera y que llegue suelto hasta aproximadamente la altura de su rodilla, el objetivo será defender este pañuelo y evitar que te lo quiten, además de uno mismo quitarles el pañuelo a otros, cada pañuelo quitado puede ser canjeado por un bitcoin, la persona con más bitcoins al final del juego gana."
+    },
+    {	"title": "20. Cuerpo a tierra",
+      "objectives": "Objetivos: Velocidad, trabajo en equipo, coordinación, comunicación, competencia",
+      "image": "./images/cuerpo_tierra.png",
+      "description": "Es un juego de competencia. Los participantes se dividirán en 2 grupos, formando una hilera cada uno con una distancia prudente entre cada integrante del respectivo grupo. La idea del juego es pasar una pelota, pañoleta u otro objeto sencillo de pasar entre medio de las piernas de cada participante, las cuales estarán separadas en forma de V invertida, desde el primero hasta el último, cuando el objeto llegue hasta el último, este deberá gritar cuerpo a tierra, haciendo que todos los demás del grupo se tiren al piso y la persona que grito salte en los espacios que generan la distancia entre cada participante hasta llegar a la punta de la hilera, luego se repetirá este mismo formato de juego hasta que todos los participantes pasen al inicio de la hilera, el equipo que logre que todos sus participantes hagan esto de la manera más rápida, gana."
+    },
+    {	"title": "21. Lazarillo",
+      "objectives": "Objetivos: Conocerse, confianza, respeto, responsabilidad por el otro, comunicación",
+      "image": "./images/lazarillo.jpg",
+      "description": "Es un juego de parejas, cada pareja constará de una persona vendada (el ciego) y otra que no lo está y lo acompaña (el lazarillo), la persona de la pareja que no esté vendada deberá guiar por los alrededores a la que si lo este, pero sin tocarlo, solo hablando, el objetivo del juego no es necesariamente ganar, sino la forma en que se realiza este y que tan efectiva es, después de cierto tiempo de traslado aleatorio, se dan vuelta los roles."
+    },
+    {	"title": "22. Submarino",
+      "objectives": "Objetivos: Trabajo en equipo, comunicación no verbal, sentido del tacto, confianza",
+      "image": "./images/submarino.jpg",
+      "description": "Es un juego de competencia, los participantes se dividirán en grupos, formados en hileras, todos los del grupo vendados excepto el del final de la hilera. Entonces, se juega en un espacio delimitado donde habrán lentejas repartidas en el suelo, el ultimo de cada hilera será el encargado de guiar al resto, pero sin hablar, solo tomados de los hombros todos, y a través de señales en estos (como tocar la espalda, la cabeza, el hombro derecho u izquierdo) es que las personas de la hilera deberán comunicarse para saber dónde trasladarse, y que la primera persona de la hilera pueda encontrar las lentejas (que representan puntos) y tomarlas, el grupo/hilera con más puntos al final del juego gana."
+    },
+    {	"title": "23. Cosecha a ciegas",
+      "objectives": "Objetivos: Seguir instrucciones, confianza, comunicación, orientación, percepción",
+      "image": "./images/cosecha_ciegas.jpg",
+      "description": "Juego de competencia. Todos los participantes conformaran duplas para competir entre sí, en cada pareja habrá una persona vendada y otra no vendada, en el área de juego, en un espacio delimitado habrán regadas lentejas de forma aleatoria que representaran puntos, la persona vendada deberá encontrar estas lentejas, recogerlas y mantenerlas, mientras que fuera del espacio delimitado estará su compañero no vendado dándole instrucciones de donde están las lentejas y como llegar a estas, la pareja con más lentejas al final del juego gana."
+    },
+    {	"title": "24. Pinta Pelota",
+      "objectives": "Objetivos: Calentar, practicar habilidades motoras de atrapar y lanzar, Practicar la rapidez al correr",
+      "image": "./images/pint_pelota.jpg",
+      "description": "Los jugadores se esparcen con la cancha designada, uno o dos de ellos tendrán un balón en mano. Estos tienen que utilizar el balón para pintar a la mayor cantidad de los jugadores. Un jugador queda pintado cuando le tocan con el balón, y tiene que sentarse. Después de algunas rondas, el número de personas pintando a las otras aumenta ya que se agrega balones al juego."
+    },
+    {	"title": "25. Posta de arrastre",
+      "objectives": "Objetivos: practicar la rapidez al correr, Utilizar trabajo en equipo de forma efectiva ",
+      "image": "./images/posta_arrastre.jpg",
+      "description": "cada equipo formado deberá colocarse en una hilera detrás de un cono. El primero de la hilera debe correr hasta el final de la cancha y volver lo más rápido posible. Luego tomar de la mano al segundo de la hilera y deben correr los dos al final de la cancha y volver, luego toman de la mano al tercero de la mano y así hasta que todo el equipo tomado de la mano corra hasta el final de la cancha y vuelva. Se deja al primero de la hilera y se vuelve a correr. Se termina cuando se han dejado todos los integrantes del grupo. Gana el equipo que complete esto más rápido ."
+    },
+    {	"title": "26. Quitarle la corona al rey",
+      "objectives": "Objetivos: Desarrollar el trabajo en equipo, Practicar agilidad",
+      "image": "./images/corona_rey.png",
+      "description": " Se forman grupos, cada grupo va a formar un círculo tomados de los codos del compañero. En el medio del círculo, se quedará un integrante del grupo  con un pañolin, el cual será el rey. Y fuera de de este habrá otro integrante de grupo que tratará de quitarle el pañolin al rey mientras los del círculo a su alrededor lo protegen. Los roles de rey y el que quitas la corona se van intercambiando entre los jugadores del equipo."
+    },
+    {	"title": "27. Águila y aguilucho",
+      "objectives": "Objetivos: Tener rápidos reflejos, Practicar la rapidez al correr, Poner a prueba la cultura general de cada uno",
+      "image": "./images/aguila.png",
+      "description": "Se forman parejas que se ubican mirando uno al otro, todas las parejas están en una fila. Una fila será el águila y la otra el aguilucho. Cuando se diga águila, los jugadores de la fila correspondiente tienen que correr hasta los conos al borde de la cancha, y los jugadores de la fila de aguilucho deben perseguir a su pareja, tratando de tocarlos antes que lleguen al borde. Si se dice aguilucho, ocurre lo mismo pero se intercambian los roles. Ahora los jugadores que son aguilucho corren y las águilas persiguen. Cuando avanzan las rondas, se va cambiando águila y aguilucho por norte o sur (nombrando ciudades de chile, por ejemplo, y los jugadores tienen que reconocer si la ciudad corresponde al sur o norte), o se cambia por especie endémica e introducida."
+    },
+    {	"title": "28. Cable eléctrico",
+      "objectives": "Objetivos: Generar tolerancia a la frustración, Utilizar trabajo en equipo de forma efectiva,Practicar la habilidad de resolución de problemas. Liderar al equipo",
+      "image": "./images/cable_electrico.jpg",
+      "description": "Se coloca una cuerda atada en ambos extremos a una superficie, de manera que este quede horizontal a una altura aproximada de 1 metro. Todos los jugadores se colocan de un lado de la cuerda. Tienen que lograr pasar todos hacia el otro lado de la cuerda, sin tocarla (o se comienza todo de nuevo) y sin pasar por debajo de ella, solo por encima. Se tiene que hacer esto en el menor tiempo posible."
+    },
+    {	"title": "29. Voltea la tortuga",
+      "objectives": "Objetivos: Calentar, Observar atentamente los alrededores, Practicar la rapidez al correr",
+      "image": "./images/voltea_tortuga.jpg",
+      "description": "Se forman dos equipos, y se colocan lentejas por toda la cancha. Cada lenteja es una tortuga, algunas estarán colocadas correctamente y otras estarán dadas vueltas. Un equipo debe voltear la mayor cantidad de tortugas, para que cuando se acabe el tiempo, la mayoría de las tortugas estén volteadas y ese equipo gane. Mientras que el otro quiere que la mayor cantidad de tortugas estén colocadas correctamente. En un tiempo limitado, los jugadores de cada equipo corren por la cancha volteando y enderezando las lentejas/tortugas dependiendo de su equipo. Gana la ronda el equipo que tenga la mayor cantidad de tortugas colocadas a su manera asociada."
+    },
+    {	"title": "30. Abecedario humano",
+      "objectives": "Objetivos: Desarrollar el trabajo en equipo, Desarrollar la creatividad, Liderar al equipo",
+      "image": "./images/abecedario.png",
+      "description": "Se arman dos equipos. Al principio de cada ronda se da una palabra. Los jugadores de cada equipo deben tratar de representar esa palabra acostados en el piso lo mas rápido posible, hasta que alguien externo determine que la palabra está representada correctamente. Pueden colocarse en el piso de tal forma que escriban la palabra, o ordenarse para representar una figura. El grupo que logre hacer algo reconocible en el menor tiempo posible gana."
+    },
+    {	"title": "31. Pirata del caribe",
+      "objectives": "Objetivos:  Desarrollar el trabajo en equipo, Generar estrategias dentro del equipo",
+      "image": "./images/piratas.jpg",
+      "description": "Se crean equipos. Cada equipo será un barco, sus integrantes se colocan en forma de ronda tomados de las manos para representar el barco. Uno de los integrantes del equipo se coloca al medio de este círculo, ellos serán el capitán del barco. Los integrantes que están en el círculo tendrán cada uno un pañolin que se colocarán en sus bolsillos, colgando aproximadamente hasta la rodilla. La idea es que cada equipo le quite los pañolines a los demás barcos y evite que se los quiten a sí mismos. Sólo el capitán del barco puede quitar pañolines y no se puede salir del círculo. Deben moverse siempre manteniendo la formación. Si un equipo pierde todos sus pañolines, se une al círculo del equipo que le quito el último pañolin, formando un arco/círculo mas grande. Así hasta un equipo haya robado todos los pañolines de los demás equipos"
+    },
+    {	"title": "32. Hoyo en el fondo del mar",
+      "objectives": "Objetivos: Concentrarse en una tarea, Memorizar correctamente una secuencia, Coordinar movimientos en un equipo",
+      "image": "./images/hoyo_fondo.jpg",
+      "description": "Este juego es un aplauso grupal, la idea es que estén todos en el grupo coordinados y realicen los movimientos y sus frases asociadas en el orden y ritmo correcto. Se comienza con 'Hay un hoyo en el fondo del mar…' Y se van agregando frases acompañadas de gestos en cada repetición del aplauso. Como 'Hay un clavo…En la tela… en el palo… en el hoyo en el fondo del mar'" 
+    },
+    {	"title": "33. Nadie sabe para quién trabaja",
+      "objectives": "Objetivos:  Calentar ,Practicar la rapidez al correr, Desarrollar habilidades motoras de atrape y lanzamiento",
+      "image": "./images/nadie_trabaja.jpg",
+      "description": "los jugadores se esparcen por la cancha. Un par de jugadores se dedica a quemar a los demás. Los jugadores que queman se pueden pasar la pelota entre sí pero también pueden quemarse entre sí. Una pelota puede quemar a otros cuando alguien la ocupa para tocar a otro jugador con ella. Si un jugador está quemado, se sienta y trata de atrapar la pelota si pasa cerca de él para poder volver a jugar. "
+    },
     { "title": "34. Rayuela zapato",
       "objectives": "Objetivos: Trabajo en equipo y desarrollo habilidad de lanzamiento",
       "image": "./images/rayuela.png",
       "description": "Los participantes se paran en grupos y de forma individual lanzan con el pie su zapato, con el fin de que caiga en el área designa y lograr ganar puntaje por cada zapato dentro del área, gana el equipo que logro tener una mayor cantidad de zapatos dentro."
     },
     {	"title": "35. 4 esquinas",
-      "objectives": "Objetivos: Trabajo en equipo, estrategia y desarrollo de la agilida",
+      "objectives": "Objetivos: Trabajo en equipo, estrategia y desarrollo de la agilidad",
       "image": "./images/4_esquinas.png",
       "description": "Consiste en que los participantes se agrupan en 5 equipos, en donde 4 parten en un esquina y uno en el centro, luego deben cambiar de posición a una esquina diferente evitando quedar en el centro, si luego de partir quedan en el centro se les descuenta 1 de su puntaje y gana el equipo con puntaje más cercano a 0."
     },
