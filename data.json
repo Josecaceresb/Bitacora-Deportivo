@@ -213,5 +213,75 @@
       "objectives": "Objetivos: Trabajo en equipo, estrategia y desarrollo de agilidad",
       "image": "./images/tuberia.png",
       "description": " Consiste en que cada participante usa un trozo de tubo y se dividen en grupos, para que mediante el uso de las tuberías logren trasladar agua una distancia determinada y depositarla en un envase, gana el grupo que logro recolectar mayor cantidad de agua transcurrido el tiempo."
+    },
+    {	"title": "44. La ducha",
+      "objectives": "Objetivos: Trabajo en equipo, concentración, rapidez, competencia",
+      "image": "./images/ducha.jpg",
+      "description": "Es un juego de competencia. Todas las personas se dividirán en dos grupos, los grupos estarán en una hilera, sentados uno tras de otro con una distancia relativamente aceptable donde tendrán delante (a cierta distancia una esponja con un balde con agua, y atrás de la hilera de personas (a cierta distancia) otro balde, pero esta vez vacío. Entonces el juego consistirá en que la primera persona de la hilera corra hacia el balde con agua y sumerja en este la esponja para que absorba agua, luego el grupo deberá pasar la esponja con agua por encima de sus cabezas hasta que esta llegue al último de la hilera, el cual deberá correr a rellenar con el agua que contenga la esponja el balde vacío, y luego correr hacia el balde con agua, rellenar la esponja y volver a realizar el mismo procedimiento anterior, El juego parará luego de un tiempo, gana el equipo que tenga el balde que inicialmente estaba vacío con más agua."
+    },
+    {	"title": "45. Nunca de a 3",
+      "objectives": "Objetivos: Velocidad, resistencia, estrategia",
+      "image": "./images/nunca_3.png",
+      "description": "Los participantes estarán distribuidos por la cancha en parejas, donde habrá dos personas sin pareja, una de ellas perseguirá a la otra, la cual deberá escapar y su forma de ponerse a salvo será colocarse al lado de alguna pareja, donde la persona (que antes era parte de la pareja) y este del lado contrario de donde se colocó el que anteriormente estaba escapando, deberá salir a perseguir al que anteriormente estaba persiguiendo, el cual tendrá que escapar de la misma forma que al que estaba persiguiendo anteriormente y así sucesivamente."
+    },
+    {	"title": "46. Diez pases",
+      "objectives": "Objetivos: Coordinación, habilidades motrices individuales y en conjunto, trabajo en equipo, estrategia",
+      "image": "./images/10_pases.jpg",
+      "description": "Juego predeportivo. Se divide a los participantes en dos equipos que competirán entre sí, donde el objetivo de cada equipo es hacer 10 pases entre sí, sin que la pelota caiga al suelo, ni que el otro equipo la obtenga para obtener un punto. Si el equipo que está haciendo los pases pierde la pelota por el equipo contrario o se les cae, parte el otro equipo haciendo los pases y se reinicia la cuenta hasta 10; el equipo con más puntos gana el juego."
+    },
+    {	"title": "47. Zorba",
+      "objectives": "Objetivos: Agilidad, velocidad de reacción, rapidez, estrategia",
+      "image": "./images/zorba.jpg",
+      "description": "Será una competencia entre dos equipos, estarán ubicados en filas uno al frente del otro teniendo de distancia el espacio a ocupar, donde al medio habrá un pañuelo. Cada integrante de cada grupo tendrá un número, cuando el guía del juego diga un número, esta persona (de cada equipo) deberá correr para obtener el pañuelo y devolverse lo más rápido posible a su equipo, para así obtener un punto, si la persona que corrió del otro equipo al decir un numero el guía toca al que obtuvo el pañuelo, el punto es para el equipo contrario (el equipo de la persona que no tomo el pañuelo), gana el equipo que más puntos tenga."
+    },
+    {	"title": "48. Airball",
+      "objectives": "Objetivos: Trabajo en equipo, coordinación",
+      "image": "./images/airball.gif",
+      "description": "Juego de competencia. Dos equipos competirán entre sí, el juego consiste en que cada equipo se debe dar pases entre los integrantes de este sin que la pelota caiga el suelo y sin que el otro equipo la intercepte y la obtenga para ellos, cada persona que tenga la pelota solo puede dar tres pasos y no puede tenerla en su posesión más de 3 segundos, para hacer puntos, se debe pasar la pelota por el aro del equipo contrario, el equipo con más puntos gana."
+    },
+    {	"title": "49. Saltar la cuerda",
+      "objectives": "Objetivos: Saltar, coordinación, trabajo en equipo, resistencia",
+      "image": "./images/saltar_cuerda.jpg",
+      "description": "Cada equipo deberá saltar la cuerda mientras dos miembros del equipo la están dando vuelta, deben ingresar cuando este en movimiento la cuerda y cuando ya todos los del equipo estén dentro deben saltar en conjunto y al unísono 15 veces (el número de veces puede ser modificado por el guía del juego), sin tropezarse con la cuerda ni parar de saltar, si lo logran, ganan."
+    },
+    {	"title": "50. Memorice",
+      "objectives": "Objetivos: Memoria, atención, capacidad de reacción",
+      "image": "./images/memorice.jpg",
+      "description": "Se divide a los participantes en dos grupos, estos grupos competirán entre sí. El juego consiste en que habrán varios conos al otro lado del espacio delimitado para el juego, y debajo de algunos de estos conos habrán escondidas pelotas de colores, cada equipo debe enviar a una persona a levantar un cono, si en debajo del cono se encontraba una pelota, la persona la toma, se la lleva y deja el cono en la misma posición en la que estaba, eso equivale a un punto para su equipo, si no hay nada debajo del cono, no hay punto, deja el cono, y la persona debe devolverse a la base con su equipo para que salga otra a hacer el mismo procedimiento, el equipo con más pelotas (ósea puntos) al final del juego cuando ya no queden más pelotas debajo de los conos, gana."
+    },
+    {	"title": "51. Guerra de gladiadores",
+      "objectives": "Objetivos: Trabajo en equipo, estrategia, rapidez",
+      "image": "./images/guerra_gladiadores.jpg",
+      "description": "Hay tres equipos, diferenciados por el color de pañuelo que estén usando y una zona de juego delimitada, teniendo de meta “aros” como entradas formadas por conos, dos a los costados y uno en el centro, y detrás de estas entradas hay recipientes. Entonces, uno de los equipos será el encargado de proteger las entradas, mientras los otros de atacar, intercaladamente. El equipo que protege tendrá a 3 integrantes (los gladiadores) dentro del área de juego y pueden ir relevándose, mientras que los otros dos equipos, deberán ir pasando de a uno, de forma intercalada entre los equipos, con pelotas en mano para lograr entrar por alguna de las entradas y depositar la pelota en el recipiente detrás de esta; las de los costados representan un punto, la del medio dos puntos, entran cada 5 segundos a la zona de juego, si alguno de los defensores dentro, les quita el pañuelo a alguno de los integrantes de otro equipo (los atacantes), estos deben salir de la zona de juego, no obtienen ningún punto y devolverse a su equipo para que otro pueda entrar. El equipo con más puntos al final del juego gana."
+    },
+    {	"title": "52. Frisbee",
+      "objectives": "Objetivos: Habilidades motrices y visomotriz, aplicación de fuerza",
+      "image": "./images/frisbee.jpg",
+      "description": "En este juego, se puede aprender como lanzar correctamente un frisbee (disco volador), recibirlo, y manipularlo. En grupos, formaran un círculo con las personas integrantes de este y se lanzaran un frisbee entre sí de diferentes formas sin que este se salga del círculo o se vaya lejos. Se puede aprender de esta manera a lanzarlo, tanto como recibirlo."
+    },
+    {	"title": "53. Kahoot",
+      "objectives": "Objetivos: Concentración, rapidez, cultura general, poner en práctica conocimientos aprendidos hasta ese momento, preparación para la prueba",
+      "image": "./images/kahoot.png",
+      "description": "Juego online que sirvió de preparación para la prueba. En este se presentan ciertas preguntas de los contenidos vistos en clases teóricas y de cultura general, con 4 opciones normalmente cada uno, si se responde correctamente, se recibe un puntaje, entre más rápido se conteste, más puntaje se obtiene, la persona con más puntos al final del kahoot gana."
+    },
+    {	"title": "57. Invasión",
+      "objectives": "Objetivos: Trabajo en equipo, estrategia, desarrollo lanzamiento y reflejos",
+      "image": "./images/invasion.jpeg",
+      "description": "Se dividen los integrantes en 4 equipos. Los 4 equipos se ponen cada uno, en un cuadrante de un cuadrado gigante. Cada equipo tiene que quemar a los integrantes de los otros 3 equipos con una pelota, la cual tiene que chocar en un integrante y caer al suelo para quemarlo. El ultimo equipo que quede en pie, es el ganador."
+    },
+    {	"title": "60. Musa araña",
+      "objectives": "Objetivos: Comunicación no verbal y creatividad",
+      "image": "./images/musa_araña.jpeg",
+      "description": "Se dividen los integrantes en grupos pequeños. El instructor le entrega una palabra a un integrante de cada grupo y este tiene que hacer mimica para que alguien de su grupo adivine la palabra. La persona que adivina es la encargada de buscar la siguiente palabra con el instructor. Gana el equipo que adivina mas palabras en un tiempo definido."
+    },
+    {	"title": "62. Cortar el hilo",
+      "objectives": "Objetivos: Concentracion y velocidad",
+      "image": "./images/corta_hilo.jpeg",
+      "description": "Los integrantes juegan una chola o pinta. Sin embargo, el jugador que tiene la pinta, solo puede elegir a una sola persona y perseguirla. Si alguien se cruza en mitad del perseguidor y perseguido, se convierte en el nuevo perseguido."
+    },
+    {	"title": "63. El piston",
+      "objectives": "Objetivos: Coordinacion grupal e individual",
+      "image": "./images/piston.jpeg",
+      "description": "A los integrantes se le asigna el numero 1 o 2. El instructor canta una cancion y cuando dice 'piston', los integrantes con el numero 1 tienen que agacharse y los con el numero 2 se tienen que quedar parados. Al nombrar de nuevo la palabra 'piston' los integrantes se intercambian roles. El juego se termina al decir toda la sucesion de piston."
     }
 ]
