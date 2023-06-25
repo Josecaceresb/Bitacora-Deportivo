@@ -269,6 +269,12 @@
       "image": "./images/invasion.jpeg",
       "description": "Se dividen los integrantes en 4 equipos. Los 4 equipos se ponen cada uno, en un cuadrante de un cuadrado gigante. Cada equipo tiene que quemar a los integrantes de los otros 3 equipos con una pelota, la cual tiene que chocar en un integrante y caer al suelo para quemarlo. El ultimo equipo que quede en pie, es el ganador."
     },
+    {
+      "title": "58. Las esferas del dragon",
+      "objectives": "Objetivos: Coordinación, trabajo en equipo, estrategia y comunicación",
+      "image": "./images/dragon.jpeg",
+      "description": "Se dividen los integrantes en dos equipos. Un equipo tiene que robar las 5 pelotas que estaran en un aro dentro del area del otro equipo. El equipo que defiende, tiene que intentar quitarle el pañuelin para enviar al contrario a una carcel. Si un contrario (aun con pañuelin) llega a la carcel, puede liberal a su compañero que le robaron su pañuelin."
+    },
     {	"title": "60. Musa araña",
       "objectives": "Objetivos: Comunicación no verbal y creatividad",
       "image": "./images/musa_araña.jpeg",
