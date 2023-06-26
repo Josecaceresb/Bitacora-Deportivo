@@ -269,13 +269,12 @@
       "image": "./images/invasion.jpeg",
       "description": "Se dividen los integrantes en 4 equipos. Los 4 equipos se ponen cada uno, en un cuadrante de un cuadrado gigante. Cada equipo tiene que quemar a los integrantes de los otros 3 equipos con una pelota, la cual tiene que chocar en un integrante y caer al suelo para quemarlo. El ultimo equipo que quede en pie, es el ganador."
     },
-    {
-      "title": "57. Las esferas del dragon",
+    { "title": "57. Las esferas del dragon",
       "objectives": "Objetivos: Coordinación, trabajo en equipo, estrategia y comunicación",
       "image": "./images/dragon.jpeg",
       "description": "Se dividen los integrantes en dos equipos. Un equipo tiene que robar las 5 pelotas que estaran en un aro dentro del area del otro equipo. El equipo que defiende, tiene que intentar quitarle el pañuelin para enviar al contrario a una carcel. Si un contrario (aun con pañuelin) llega a la carcel, puede liberal a su compañero que le robaron su pañuelin."
     },
-      {"title": "58. Memorice 2.0",
+    { "title": "58. Memorice 2.0",
       "objectives": "Objetivos: Trabajo en equipo, memoria, velocidad",
       "image": "./images/memorice2.jpeg",
       "description": "Se dividen los integrantes en dos equipos. Cada equipo envia a dos integrantes a dar vuelta unas tarjetas con figuras que estan en el centro del campo. Si los dos integrantes dan vuelta la misma figura, se la llevan a su equipo y suman un punto. En caso contrario, la dan vuelta de nuevo y vuelven a su equipo para que salgan otros dos integrantes. Gana el equipo que mas puntos tenga al terminar todas las tarjetas."
@@ -285,8 +284,7 @@
       "image": "./images/musa_araña.jpeg",
       "description": "Se dividen los integrantes en grupos pequeños. El instructor le entrega una palabra a un integrante de cada grupo y este tiene que hacer mimica para que alguien de su grupo adivine la palabra. La persona que adivina es la encargada de buscar la siguiente palabra con el instructor. Gana el equipo que adivina mas palabras en un tiempo definido."
     },
-    {
-      "title": "60. Pinta por tiempo",
+    { "title": "60. Pinta por tiempo",
       "objectives": "Objetivos: Velocidad, trabajo en equipo, resistencia y estrategia",
       "image": "./images/pinta_tiempo.png",
       "description": "Los integrantes se dividen en dos grupos. Un grupo tiene que estar en un area delimitada y el otro grupo forma una hilera, fuera del area delimitada. Un integrante del grupo en hilera, tiene que darle la pinta a cualquiera del grupo que esta en el area delimitada. El integrante pintado tiene que salir del area y el integrante que pinto tiene que volver a la hilera para chocarle la mano a otro integrante y que pueda seguir persiguiendo a los integrantes del otro grupo. Gana el equipo que pinte a todo el equipo rival en el menor tiempo posible."
@@ -306,6 +304,56 @@
       "image": "./images/el_pichon.jpeg",
       "description": "Los integranes se dividen en dos equipos. Un equipo forma un pasillo y lanza los balones al medio, intentando darles a los integrantes del otro equipo que tienen que pasar al otro lado sin ser tocados por el balon. Luego se dan vuelta los roles. El equipo que haga pasar a más gente, gana."
     },
+    {	"title": "64. Misión imposible",
+      "objectives": "Objetivos:  Trabajar en equipo, Generar confianza en los compañeros, Desarrollar la creatividad",
+      "image": "./images/mision_imposible.png",
+      "description": "En equipos, los jugadores deberán completar una serie de misiones (no necesariamente en orden) en el menor tiempo posible. Para que una misión se considere completada, el equipo debe mandar foto o video de ellos realizando la misión al profesor o guía del juego. Pueden involucrar gente voluntaria que no esté participando en el jeugo y pueden ir a cualquier lugar para realizar las misiones. Las misiones eran las siguientes: Bailar cueca con personas fuera de la sección, ofrecer matrimonio a alguien fuera de la sección, explicar a una clase la importancia de los suspensores para los adultos mayores, formar la palabra juego con todos los del equipo, jugar una partida de cachipun gigante con un grupo fuera de la sección, pedir a un profesor que cuente un chiste, representar un cuento infantil en una corta obra, hacer un rap de liderazgo, juegos y recreación, hacer 10 pases con un balón y todos los del equipo sin que la pelota toque el piso, y realizar una formación de ACROSPORT con todo el equipo. "
+    },
+    {	"title": "65. Casa inquilino",
+      "objectives": "Objetivos:  Practicar la rapidez, Desarrollar la creatividad",
+      "image": "./images/casa_inquilino.png",
+      "description": "Hay dos roles posibles, casa o inquilino. Las casas son una pareja de jugadores que se tomarán de las manos para formar un triángulo, similar al techo de una casa. Y los inquilinos son aquellos jugadores que se ubican bajo una casa o entre dos personas que tienen el rol de casa. En cada turno, una persona no tendrá rol. Esa persona debe crear una historia corta en la que menciona una de las tres palabras: terremoto, casa o inquilinos. Si se menciona casa, los jugadores con este rol deben moverse juntos y encontrar un nuevo inquilino sobre el que ubicarse. Si dice inquilino, los inquilinos se mueven buscando una nueva casa bajo la cual estar. Y si dice terremoto, las parejas como casa se desarman y todos se mueven a encontrar un nuevo rol o pareja. "
+    },
+    {	"title": "66. Gato",
+      "objectives": "Objetivos:  Practicar la rapidez, Utilizar estrategia, Trabajar en equipo",
+      "image": "./images/gato.png",
+      "description": "Dos equipos competirán en un juego del gato, pero en tamaño grande. Los dos equipos se ubican al inicio de la cancha, y al final de esta se ubica trazado con cuerdas las casillas de 3x3 cuadrados. Uno a uno, los integrantes de cada equipo deben correr hasta donde están las casillas y ubicar las lentejas en el lugar que deseen. Cuando un equipo logre hacer una línea con 3 lentejas de su color, gana esa ronda."
+    },
+    {	"title": "67. Que no caiga, que no toque el suelo",
+      "objectives": "Objetivos:   Desarrollar habilidades motoras de atrape y lanzamiento, Trabajar en equipo",
+      "image": "./images/que_no_caiga.png",
+      "description": "Los jugadores se ubican en la formación que ellos quieran. Deben lanzarse entre ellos una pelota gigante, de manera que todos los jugadores toquen la pelota una sola vez y sin que esta toque el piso."
+    },
+    {	"title": "68. Venta de zapatos",
+      "objectives": "Objetivos:  Practicar la coordinación grupal, Ejercer resistencia física, Desarrollar la memoria",
+      "image": "./images/venta_zapatos.png",
+      "description": "Se crean equipos, cada uno tendrá un color asignado. Un equipo parte saltando y dice el color de otro equipo al cual elige, por ejemplo el equipo azul parte y dice “rojo, rojo, rojo”, luego el rojo responde, también saltando “que hay, que hay, que hay”. Luego siguen el diálogo así: “Tiene zapatos?” “Si hay, si hay, si hay” “De qué color los tiene?” “azul, azul, azul”. Luego el equipo realiza lo mismo, pero eligiendo otro equipo. Y así se van pasando el canto de un equipo a otro. "
+    },
+    {	"title": "69. Artzikirol",
+      "objectives": "Objetivos:  Practicar la rapidez, Desarrollar resistencia, Utilizar estrategia, Trabajar en equipo",
+      "image": "./images/artzikirol.png",
+      "description": "Se crearán dos equipos, cada uno con un arquero. El objetivo es lanzar la pelota y que pase por el arco del equipo contrario para hacer la mayor cantidad de goles posible. Al comienzo, la pelota se lanza solo con las manos, pero si esta se cae y toca el suelo, el juego continúa moviendo la pelota solo con los pies. Ambos equipos pueden interceptarse la pelota entre sí para poder tratar de hacer puntos"
+    },
+    {	"title": "70. Carrera de elefantes",
+      "objectives": "Objetivos:  Trabajar en equipo, Desarrollar agilidad",
+      "image": "./images/elefante.png",
+      "description": "Cada equipo hará una hilera, todos los jugadores con los pies separados, pasando su mano por en medio de sus piernas para tomarle la mano al jugador detrás de ellos. Así, se forma una cadena entre todo el equipo. Sin soltarse, cada equipo debe avanzar hasta el final de la cancha lo más rápido que pueda."
+    },
+    {	"title": "71. Cuidar el castillo",
+      "objectives": "Objetivos:  Practicar la rapidez, Desarrollar habilidades motoras de atrape y lanzamiento, Trabajar en equipo",
+      "image": "./images/castillo.png",
+      "description": "Se forman dos equipos, cada uno se ubica en su mitad de la cancha separada por lentejas. En su zona, debe colocar el saco que correspondiere a su castillo. Cada equipo también tiene un escudo que usará para defender el castillo.  El objetivo es botar el castillo del equipo contrario con una pelota. Hay una sola pelota en cancha. Los jugadores pueden ser quemados si la pelota los toca, en cual caso deben dirigirse al borde de la cancha del equipo contraria y pueden seguir lanzando desde ahí."
+    },
+    {	"title": "72. Las naciones",
+      "objectives": "Objetivos:  Practicar la rapidez, Desarrollar habilidades motoras de atrape y lanzamiento, Desarrollar rápidos tiempos de reacción",
+      "image": "./images/naciones.png",
+      "description": "Se forman equipos, un equipo forma una hilera en el centro y los otros equipos se colocan en fila dejando un espacio en medio donde correrá el equipo que se encuentra en el centro. Uno a uno, los jugadores del equipo en el centro deben pasar corriendo por el espacio entre las dos filas y tratar de esquivar el balón. Los equipos en las filas deben tratar de lanzar balones para tocar a los integrantes del otro equipo que se encuentra pasando por el pasillo. Se cuenta cuantas veces los jugadores de un equipo son tocados por la pelota. Y luego se intercambian los roles de los equipos. "
+    },
+    {	"title": "73. Gallina ponedora",
+      "objectives": "Objetivos:  Practicar la rapidez, Desarrollar resistencia",
+      "image": "./images/gallina.png",
+      "description": "Se crean equipos, y cada uno forma una hilera. Un integrante de cada equipo avanza con una pelota sosteniéndola con sus rodillas/muslos hasta llegar a un recipiente en donde deben dejar la pelota. Luego deben recoger la pelota y traerla de vuelta para pasarla al siguiente jugador de su equipo, el cual debe volver a llevarla hasta el recipiente. Así hasta que hayan pasado todos los integrantes, la idea es hacerlo lo más rápido posible. "
+    },
     {	"title": "74. La cuncuna",
       "objectives": "Objetivos: Coordinación, agilidad y trabajo en equipo",
       "image": "./images/cuncuna.jpg",
@@ -316,11 +364,10 @@
       "image": "./images/merengue.jpg",
       "description": "."
     },
-    {
-    "title": "76. Vuelta al mundo",
-    "objectives": "Objetivos: Trabajo en equipo, agilidad y destreza",
-    "image": "./images/vuelta_mundo.png",
-    "description": "Consiste en que se separan  dos equipo, en donde uno forma una hilera, patea una pelota y comienza a correr alrededor de la hilera, mientras el otro va a búscala, pasa el balón entre todas las piernas y vuelvo al comienzo, para detener las vueltas, luego se vuelve a realizar con los roles cambiados, así sucesivamente hasta que todos participen, gana el equipo que logro más vueltas en total."
+    { "title": "76. Vuelta al mundo",
+      "objectives": "Objetivos: Trabajo en equipo, agilidad y destreza",
+      "image": "./images/vuelta_mundo.png",
+      "description": "Consiste en que se separan  dos equipo, en donde uno forma una hilera, patea una pelota y comienza a correr alrededor de la hilera, mientras el otro va a búscala, pasa el balón entre todas las piernas y vuelvo al comienzo, para detener las vueltas, luego se vuelve a realizar con los roles cambiados, así sucesivamente hasta que todos participen, gana el equipo que logro más vueltas en total."
     },
     {	"title": "77. Cuncuna ZigZag",
       "objectives": "Objetivos: Coordinación, agilidad y destreza",
@@ -574,5 +621,40 @@
       "objectives": "Objetivos: Trabajo en equipo, desarrollo de la precision y manejo de balon con los pies",
       "image": "./images/vs_futbol.jpeg",
       "description": "Los participantes se dividen en dos equipos. En cada ronda, cada equipo tiene que elegir a dos representantes. Estos dos representantes se enfrentarán en una competencia estilo futbol-handball. Para hacer un gol, un jugador tiene que pegarle al balón desde afuera del área y darle a los conos que estarán dentro de los arcos. Al terminar una ronda, se cambian los representantes. Gana el equipo con más goles."
+    },
+    {	"title": "134. Quemadas",
+      "objectives": "Objetivos: Habilidades motoras, agilidad y trabajo en equipo",
+      "image": "./images/quemadas.jpg",
+      "description": "Los participantes se separan en dos equipo, cada uno en su mitad correspondiente y cada equipo tendrá un embajador que se encontrara en el contorno del área del equipo rival, luego los embajadores como los participantes podrán lanzarle un balón al rival para ‘quemarlo’, gana el equipo que elimine primero a los miembros del equipo rival que están dentro de su area."
+    },
+    {	"title": "135. Bandidos",
+      "objectives": "Objetivos: Estrategia, habilidades motoras y trabajo en equipo",
+      "image": "./images/bandidos.jpg",
+      "description": "Los participantes tendrán balones que tendran que proteger, en donde algunos de los participantes serán los bandidos, los cuales tendrán que organizarse para conseguir el balón que tienen los participantes."
+    },
+    {	"title": "136. Dedos mata dedos",
+      "objectives": "Objetivos: Concentración y razonamiento matemático",
+      "image": "./images/dedos_mata.jpg",
+      "description": "Consiste en que los participantes formaran parejas y tendrán que ir tocando la mano al rival, para sumarle los dedos que tenga levantados, si la suma es cinco se elimina la mano y si es mayor se le resta cinco."
+    },
+    {	"title": "137. El juego de los limones",
+      "objectives": "Objetivos: Coordinación y concentración",
+      "image": "./images/limones.jpg",
+      "description": "Los participantes se separan en grupo y se organizan para que cada uno tenga número, luego uno de los participante tendrá que decir ‘su número limón medio limón el número de otro limón’, el numero de la persona que nombraron tendrá que repetir esta acción, gana el participante que se equivoque menos veces."
+    },
+    {	"title": "138. Pasar la aduana",
+      "objectives": "Objetivos: Habilidades motoras, agilidad y trabajo en equipo",
+      "image": "./images/pasar_aduana.jpg",
+      "description": "Los participantes se separan en dos grupos, en donde cada equipo tendrá una mula y dos guardias, con el fin de que un participante corra un circuito, le gane el cachipum al guardia rival y se suba a la mula para volver, mientras los guardias intentar robarle un pañuelo, gana el equipo que logre llegar más veces."
+    },
+    {	"title": "139. El tiburón",
+      "objectives": "Objetivos: Coordinación, agilidad y trabajo en equipo",
+      "image": "./images/tiburon.jpg",
+      "description": "Consiste en que se tiene una tela circular, en donde los participante se cubren las piernas con la tela, además hay un tiburón debajo de la tela, el que puede introducir a los participantes para que se vuelvan tiburones, mientras hay salvavidas que evitan que los participantes se vuelvan tiburones."
+    },
+    {	"title": "140. Búsqueda del tesoro",
+      "objectives": "Objetivos: Estrategia, agilidad y trabajo en equipo",
+      "image": "./images/tesoro.jpg",
+      "description": "Los participantes se separan en grupo y los grupo por medio de pistas que guían a otros lugares van avanzando hasta llegar a la última pista que los llega al tesoro."
     }
 ]
