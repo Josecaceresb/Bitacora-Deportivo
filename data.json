@@ -264,30 +264,315 @@
       "image": "./images/kahoot.png",
       "description": "Juego online que sirvió de preparación para la prueba. En este se presentan ciertas preguntas de los contenidos vistos en clases teóricas y de cultura general, con 4 opciones normalmente cada uno, si se responde correctamente, se recibe un puntaje, entre más rápido se conteste, más puntaje se obtiene, la persona con más puntos al final del kahoot gana."
     },
-    {	"title": "57. Invasión",
+    {	"title": "56. Invasión",
       "objectives": "Objetivos: Trabajo en equipo, estrategia, desarrollo lanzamiento y reflejos",
       "image": "./images/invasion.jpeg",
       "description": "Se dividen los integrantes en 4 equipos. Los 4 equipos se ponen cada uno, en un cuadrante de un cuadrado gigante. Cada equipo tiene que quemar a los integrantes de los otros 3 equipos con una pelota, la cual tiene que chocar en un integrante y caer al suelo para quemarlo. El ultimo equipo que quede en pie, es el ganador."
     },
     {
-      "title": "58. Las esferas del dragon",
+      "title": "57. Las esferas del dragon",
       "objectives": "Objetivos: Coordinación, trabajo en equipo, estrategia y comunicación",
       "image": "./images/dragon.jpeg",
       "description": "Se dividen los integrantes en dos equipos. Un equipo tiene que robar las 5 pelotas que estaran en un aro dentro del area del otro equipo. El equipo que defiende, tiene que intentar quitarle el pañuelin para enviar al contrario a una carcel. Si un contrario (aun con pañuelin) llega a la carcel, puede liberal a su compañero que le robaron su pañuelin."
     },
-    {	"title": "60. Musa araña",
+      {"title": "58. Memorice 2.0",
+      "objectives": "Objetivos: Trabajo en equipo, memoria, velocidad",
+      "image": "./images/memorice2.jpeg",
+      "description": "Se dividen los integrantes en dos equipos. Cada equipo envia a dos integrantes a dar vuelta unas tarjetas con figuras que estan en el centro del campo. Si los dos integrantes dan vuelta la misma figura, se la llevan a su equipo y suman un punto. En caso contrario, la dan vuelta de nuevo y vuelven a su equipo para que salgan otros dos integrantes. Gana el equipo que mas puntos tenga al terminar todas las tarjetas."
+    },
+    {	"title": "59. Musa araña",
       "objectives": "Objetivos: Comunicación no verbal y creatividad",
       "image": "./images/musa_araña.jpeg",
       "description": "Se dividen los integrantes en grupos pequeños. El instructor le entrega una palabra a un integrante de cada grupo y este tiene que hacer mimica para que alguien de su grupo adivine la palabra. La persona que adivina es la encargada de buscar la siguiente palabra con el instructor. Gana el equipo que adivina mas palabras en un tiempo definido."
     },
-    {	"title": "62. Cortar el hilo",
+    {
+      "title": "60. Pinta por tiempo",
+      "objectives": "Objetivos: Velocidad, trabajo en equipo, resistencia y estrategia",
+      "image": "./images/pinta_tiempo.png",
+      "description": "Los integrantes se dividen en dos grupos. Un grupo tiene que estar en un area delimitada y el otro grupo forma una hilera, fuera del area delimitada. Un integrante del grupo en hilera, tiene que darle la pinta a cualquiera del grupo que esta en el area delimitada. El integrante pintado tiene que salir del area y el integrante que pinto tiene que volver a la hilera para chocarle la mano a otro integrante y que pueda seguir persiguiendo a los integrantes del otro grupo. Gana el equipo que pinte a todo el equipo rival en el menor tiempo posible."
+    },
+    {	"title": "61. Cortar el hilo",
       "objectives": "Objetivos: Concentracion y velocidad",
       "image": "./images/corta_hilo.jpeg",
       "description": "Los integrantes juegan una chola o pinta. Sin embargo, el jugador que tiene la pinta, solo puede elegir a una sola persona y perseguirla. Si alguien se cruza en mitad del perseguidor y perseguido, se convierte en el nuevo perseguido."
     },
-    {	"title": "63. El piston",
+    {	"title": "62. El piston",
       "objectives": "Objetivos: Coordinacion grupal e individual",
       "image": "./images/piston.jpeg",
       "description": "A los integrantes se le asigna el numero 1 o 2. El instructor canta una cancion y cuando dice 'piston', los integrantes con el numero 1 tienen que agacharse y los con el numero 2 se tienen que quedar parados. Al nombrar de nuevo la palabra 'piston' los integrantes se intercambian roles. El juego se termina al decir toda la sucesion de piston."
+    },
+    {	"title": "63. El pichon",
+      "objectives": "Objetivos: Desarrollar lanzamiento, reflejos y correr",
+      "image": "./images/el_pichon.jpeg",
+      "description": "Los integranes se dividen en dos equipos. Un equipo forma un pasillo y lanza los balones al medio, intentando darles a los integrantes del otro equipo que tienen que pasar al otro lado sin ser tocados por el balon. Luego se dan vuelta los roles. El equipo que haga pasar a más gente, gana."
+    },
+    {	"title": "74. La cuncuna",
+      "objectives": "Objetivos: Coordinación, agilidad y trabajo en equipo",
+      "image": "./images/cuncuna.jpg",
+      "description": "Los participantes se separan en grupo y forman una hilera, luego se deben sentar y tomar el tobillo de quien este atrás, con el fin de desplazarse de esta forma, gana el equipo que llegue primero."
+    },
+    {	"title": "75. Merengue",
+      "objectives": "Objetivos: Coordinación, agilidad y destreza",
+      "image": "./images/merengue.jpg",
+      "description": "."
+    },
+    {
+    "title": "76. Vuelta al mundo",
+    "objectives": "Objetivos: Trabajo en equipo, agilidad y destreza",
+    "image": "./images/vuelta_mundo.png",
+    "description": "Consiste en que se separan  dos equipo, en donde uno forma una hilera, patea una pelota y comienza a correr alrededor de la hilera, mientras el otro va a búscala, pasa el balón entre todas las piernas y vuelvo al comienzo, para detener las vueltas, luego se vuelve a realizar con los roles cambiados, así sucesivamente hasta que todos participen, gana el equipo que logro más vueltas en total."
+    },
+    {	"title": "77. Cuncuna ZigZag",
+      "objectives": "Objetivos: Coordinación, agilidad y destreza",
+      "image": "./images/cuncuna_zigzag.jpg",
+      "description": "Los participantes se dividen en dos grupos y forman filas tomados de las manos, luego quien esté al último debe pasar por entremedio y bajo de los brazos de los otros participantes, con el fin de desplazarse una distancia, gana el equipo que lo realiza de forma más rápida."
+    },
+    {	"title": "78. Pasar por el aro",
+      "objectives": "Objetivos: Coordinación, agilidad y destreza",
+      "image": "./images/pasar_aro.jpg",
+      "description": "Los participantes se separan en grupo, en donde se toman de la mano en parejas y forman hilera con su respectivo grupo, con el fin de que el ultimo pase por entremedio de los brazos de las otras parejas del grupo para ir avanzando, gana el equipo que recorra la distancia en menos tiempo."
+    },
+    {	"title": "79. Payaso Torombolo",
+      "objectives": "Objetivos: Coordinación, agilidad y precalentamiento",
+      "image": "./images/payaso.jpg",
+      "description": "Los participantes forman un círculo y realizan una seria de saltos en direcciones especificas al ritmo de una canción."
+    },
+    {	"title": "80. El Mosto",
+      "objectives": "Objetivos: Coordinación, agilidad y destreza",
+      "image": "./images/mosto.png",
+      "description": "Los participante se separan en grupo y realizan una canción, mientras realizan movimientos en conjunto con su grupo."
+    },
+    {	"title": "81. Aplauso hipodromo",
+      "objectives": "Objetivos: Coordinación, agilidad y destreza",
+      "image": "./images/hipodromo.png",
+      "description": "Los participantes forman un círculo entorno a la persona que dirige el juego, con el fin de que el que dirige dirá ciertas instrucciones que hace que los que estén en el circulo realizasen ciertos movimientos que se relacionan con un hipódromo."
+    },
+    {	"title": "82. Futbol Aro",
+      "objectives": "Objetivos: Coordinación, agilidad y destreza",
+      "image": "./images/futbol_aro.jpg",
+      "description": "Consiste en que los participantes se separan en dos equipo y cada equipo tendrá a alguien con un aro, para anotar cada equipos tendrán que darse pases y lograr que el balón pase atreves del aro, gana el equipo que anote más punto en el tiempo."
+    },
+    {	"title": "83. Futbol Scout",
+      "objectives": "Objetivos: Coordinación, agilidad y destreza",
+      "image": "./images/futbol_scout.jpg",
+      "description": "Consiste en que los participantes se dividen en dos equipos, en donde cada uno tiene un ‘portero’ con un palo y estará dentro área al contrario de la cancha, para anotar se tendrá de un aro, el cual debe llegar donde esta su ‘portero’ por medio de pases, para ser lanzado fuera del área y caer en el palo, gana el equipo que logra mayor cantidad de anotaciones."
+    },
+    {	"title": "84. Alibaba y los cuarenta ladrones",
+      "objectives": "Objetivos: Coordinación, memoria y atención",
+      "image": "./images/alibaba.jpg",
+      "description": "Los participantes forman un círculo y cantan una canción, mientras el primer participante realiza un movimiento o pose y el jugador a su derecha debe replicarlo, así sucesivamente pero el primer participante siempre realiza una pose diferente."
+    },
+    {	"title": "85. Guerra cruzada",
+      "objectives": "Objetivos: Estrategia, agilidad y destreza",
+      "image": "./images/guerra_cruzada.jpg",
+      "description": "Consiste en que los participantes se separan en dos equipo y por turno cada equipo deberá mandar a uno para que corra a la esquina contrario para conseguir un punto, mientras el equipo contrario puede tocarlo antes de que llegue para congelarlo, alguien del mismo equipo puede descongelar para conseguir más puntos, gana el equipo que consiga más puntos."
+    },
+    {	"title": "86. Mau Millan",
+      "objectives": "Objetivos: Coordinación, agilidad y destreza",
+      "image": "./images/mau_millan.jpg",
+      "description": "Los participante forman un círculo y solo dos estarán dentro del círculo, en donde uno solo dice ‘Mau’ y el otro solo dirá ‘Millan’, con el fin de cada vez que el participante diga ‘Mau’ el otro deberá decir ‘Millan’,para que no salgan del circulo tendrán que decir ‘Yoshi’ cuando estén en los limites, el juego acaba cuando el Mau atrapa al Millan."
+    },
+    {	"title": "87. Gato Humano",
+      "objectives": "Objetivos: Trabajo en equipo, agilidad y destreza",
+      "image": "./images/gato_humano.jpg",
+      "description": "Los participante se separan en dos grupos inicialmente y luego forman 3 subgrupos, luego deben trotar alrededor de un cuadrado 3x3, con el fin que después de cierto tiempo los subgrupos vallan dentro del cuadrado y logren formar una línea, gana el equipo que forma mayor cantidad de lineas."
+    },
+    {	"title": "88. Bota conos",
+      "objectives": "Objetivos: Trabajo en equipo, agilidad y destreza",
+      "image": "./images/bota_conos.jpg",
+      "description": "Los participante se separan en dos equipo, los equipo deben botar conos del equipo rival lanzando una pelota, fuera del área delimitada, para moverse los participante solo pueden dar una cantidad de pasos, gana el equipo que bote los conos del rival primero."
+    },
+    {	"title": "89. Indiana Jones",
+      "objectives": "Objetivos: Estrategia, agilidad y destreza",
+      "image": "./images/indiana_jones.jpg",
+      "description": "Los participantes se separan en grupos, en donde uno de los grupo le toca escapar y el resto de los grupos forman dos círculos uno dentro del otro, del grupo que escapan deben entrar dentro de los círculos y escapar de una pelota que es empujada por los que conforman los círculos, los grupos que escapan van cambiando y gana el grupo que dure más tiempo escapando."
+    },
+    {	"title": "90. Los tronquitos",
+      "objectives": "Objetivos: Coordinación, agilidad y destreza",
+      "image": "./images/tronquitos.jpg",
+      "description": "Los participantes se separan en grupos y deben acostarse en el suelo uno al lado del otro, uno de los integrantes debe tumbarse sobre sus compañeros y los que estas acostados debe rodar, con el fin de mover al que tienen encima, gana el grupo que desplace más rápido a integrante que tienen encima."
+    },
+    {	"title": "91. Circo",
+      "objectives": "Objetivos: Coordinación, trabajo en equipo y cooperación",
+      "image": "./images/circo.jpg",
+      "description": "Consiste en que los participantes, se organizaran y crear un show de circo, en donde se debe tener un orden y ánimo para realizar distintas actividades."
+    },
+    {	"title": "92. Nudo humano",
+      "objectives": "Objetivos: Coordinación, agilidad y destreza",
+      "image": "./images/nudo_humano.jpg",
+      "description": "Consiste en que los participantes se separan en grupo y se juntan en un circulo, luego se toman de la mano derecha y después con la izquierda entre los mismos del grupo, con el fin de que queden enredados para que realizando movimientos logran llega a formar un circulo sin soltarse de las manos."
+    },
+    {	"title": "93. Ferrocarril",
+      "objectives": "Objetivos: Coordinación, agilidad y destreza",
+      "image": "./images/ferrocarril.png",
+      "description": "Los participantes de dividen en dos grupos y se formar dos filas, con el fin de que miren al del enfrente, luego se sientan y juntan sus pies, la idea es que las parejas corran detrás de su grupo hasta el final y después salte las piernas de los miembros del equipo, así sucesivamente, gana el que lo realizase primero."
+    },
+    {
+      "title": "94. Satelite",
+      "objectives": "Objetivos: Agilidad, concentración y aprender a sumar",
+      "image": "./images/satelite.webp",
+      "description": "Los integrantes se dividen en 4 equipos y se ponen en hileras formando una cruz. Cada participante de una hilera tendrá un número, comenzando del 1. El instructor dirá un número o ejecutará una operación matemática y el integrante de cada grupo que sea nombrado su número, tendrá que correr dando una vuelta completa al círculo formado por las hileras y volver a su lugar. Luego tendrá que hacer zigzag entre sus compañeros hasta llegar al final de la hilera y tomar un cono. El equipo que no tome un cono pierde."
+    },
+    {
+      "title": "95. Gato y ratón",
+      "objectives": "Objetivos: Agilidad, reflejos",
+      "image": "./images/gato_raton.jpeg",
+      "description": "Los participantes se ponen en un círculo y se elige a dos participantes al azar que tendrán que pasar al medio. Uno actuará como ratón y el otro como gato. El gato persigue al ratón hasta tocarlo, si lo toco cambian de roles. Si un ratón llega a pasar entremedio de dos personas en el círculo, deja de ser perseguido y la persona a la derecha se convierta en gato y el gato que estaba persiguiendo se convierte en ratón."
+    },
+    {
+      "title": "97. Circuito eléctrico",
+      "objectives": "Objetivos: Reflejos, trabajo en equipo, agilidad",
+      "image": "./images/circuito_electrico.webp",
+      "description": "Los integrantes se dividen en dos equipos y se colocan en hileras, donde el primero de cada equipo le da la mano al instructor. El instructor apretará cada mano y cada grupo tendrá que pasar este apretón hasta el último integrante. Cuando el último participante reciba el apretón, tendrá que correr hacia un cono que estará en un área específica. El equipo que obtenga más conos gana."
+    },
+    {	"title": "101. Canaleta",
+      "objectives": "Objetivos: Trabajo en equipo, coordinacion, estrategia y esfuerzo",
+      "image": "./images/canaleta.jpeg",
+      "description": "Los participantes toman una canaleta pequeña. Con esa canaleta, tienen que conducir el agua de un balde hasta otro balde que se encuentra a una distancia considerable. Gana el equipo que logre llenar más el balde en un tiempo determinado."
+    },
+    {	"title": "102. Rueda hamster",
+      "objectives": "Objetivos: Coordinación grupal, trabajo en equipo y estrategia",
+      "image": "./images/rueda_hamster.jpeg",
+      "description": "Los participantes se meten dentro de una cinta grande y levantan las manos para formar una rueda. Luego, se desplazan hasta una cierta ubicación de manera que no se rompa la rueda. Gana el equipo que realice más vueltas en un tiempo determinado."
+    },
+    {	"title": "103. El suelo es lava",
+      "objectives": "Objetivos: Trabajo en equipo, Coordinación, Estrategia",
+      "image": "./images/lava.jpg",
+      "description": "Un grupo de personas que deben que cruzar una cierta distancia solo pisando colchonetas, porque lo que el grupo tiene que organizarse para dejar una colchoneta libre que permita mover una y ponerla más adelante para así poder avanzar, siempre con la precaución de no pisar el suelo. Gana el juego el grupo que dé más vueltas en un tiempo determinado."
+    },
+    {	"title": "104. Los troncos",
+      "objectives": "Objetivos: Fuerza, trabajo en equipo, estrategia, resistencia",
+      "image": "./images/troncos.jpg",
+      "description": "Es un juego de preparación para los fit games. En un grupo, los integrantes deberán pasar por arriba de troncos que estarán sosteniendo las otras personas del grupo hasta una meta establecida, de esta forma, en parejas uno al lado del otro las personas formaran dos hileras, teniendo como unión de estos troncos que sostendrán con las piernas, y arriba de los troncos deberán ir pasando las personas desde el final de la hilera hasta el inicio y así sucesivamente hasta llegar a una meta, el primero grupo que llegue a la meta gana."
+    },
+    {	"title": "105. Tombo",
+      "objectives": "Objetivos: Trabajo en equipo, estrategia, velocidad",
+      "image": "./images/tombo.jpg",
+      "description": "Es un juego de competencia. En un cuadrado delimitado por las lentejas, dos equipos se pondrán uno al frente del otro, el equipo quemador estará ubicado dentro del cuadrado en posiciones estratégicas y el equipo que debe correr estará en una hilera fuera del cuadrado. Un equipo parte lanzando la pelota al equipo contrario, en el cual un jugador deberá golpear el balón lo más lejos posible, luego deberá correr a través de las bases mientras que el equipo contrario corre a buscar el balón e intenta “quemar” las bases. Si un corredor pasa por todas las bases obtiene un punto para el equipo. El equipo con más puntos al final del juego gana."
+    },
+    {	"title": "106. Las princesas",
+      "objectives": "Objetivos: Estrategia, trabajo en equipo, imaginación",
+      "image": "./images/princesas.jpg",
+      "description": "En este juego existen 3 roles: princesas, guerreros y guardias. Será un juego de 3 equipos, las princesas de cada equipo son personas que no pueden poner resistencia y por ello estarán resguardadas en un círculo por los guardias, que solo podrán moverse sin separar sus piernas, que estarán amarradas, los guardias deberán proteger a las princesas de los guerreros, personas que tendrán un pañuelo y deberán lograr entrar a cada base enemiga a robar a alguna princesa y llevarla a su base, si un guardia le quita el pañuelo a un guerrero, este no puede robar a una princesa, el equipo con más princesas en su base al final del juego gana."
+    },
+    {	"title": "107. Vuelta al Aro",
+      "objectives": "Objetivos: Rapidez, agilidad, flexibilidad, trabajo en equipo",
+      "image": "./images/vuelta_aro.png",
+      "description": "Serán tres equipos, cada equipo deberá formar una ronda con sus integrantes tomados de las manos, para entonces, pasar un aro grande por cada persona del grupo sin soltar sus manos, completando al menos dos vueltas (de ida y vuelta, en sentido horario y antihorario). El primero equipo que logre completar este procedimiento gana un punto."
+    },
+    {	"title": "108. Ciego, Manco y Mudo",
+      "objectives": "Objetivos: Comunicación no verbal, trabajo en equipo, resolución de problemas complejos",
+      "image": "./images/ciego.png",
+      "description": " Será un juego de equipos, en cada grupo habrá roles: ciego, manco y mudo. El ciego tendrá tapados los ojos con un pañuelo, el manco tendrá las manos amarradas y el mudo no podrá decir ni una sola palabra, y deberán superar distintas pruebas ayudándose entre ellos. Los mudos serán los encargados de comunicar cada prueba a su grupo y como esta debe ser realizada, las pruebas son: escribir los nombres de cada integrante dentro de una estrella dibujada y recortada por el grupo, en una hilera pasar una pelota hacia atrás, en una fila pasar un aro por cada integrante sin soltarse de las manos, y finalmente, sobre una manta todo el equipo debe lograr dar vuelta la manta sin bajarse de esta ni tocar el suelo. El equipo con más puntos al final del juego gana."
+    },
+    {	"title": "109. Hoyito",
+      "objectives": "Objetivos: Agilidad, concentración, reflejos, habilidades motoras",
+      "image": "./images/hoyito.jpg",
+      "description": "El juego consiste en lograr pasar una pelota entre las piernas de cada persona que estará inmóvil y solo podrá utilizar sus manos. En un grupo que estará formando una ronda con cada persona en la posición determinada (con sus piernas separadas) deberán pegarle a la pelota intentando acertar entre las piernas de otro compañero. Si la pelota logra pasar entre las piernas de alguien, esa persona deberá sentarse en su sitio, pero podrá seguir jugando en su grupo. La última persona en pie gana."
+    },
+    {	"title": "110. Culebra Artistica",
+      "objectives": "Objetivos: Percepción, Creatividad, Imaginación, Motricidad fina, comunicación no verbal",
+      "image": "./images/culebra_artistica.png",
+      "description": "Se formarán grupos y estos grupos deberán colocarse en hileras, donde cada persona tendrá un lápiz y una hoja, la cual deberá estar ubicada en la espalda del compañero de grupo que este en frente, en esta hoja deberán dibujar lo que el guía del juego le indique a la última persona de la hilera, la cual deberá pasar el mensaje a través del dibujo que haga, sin hablar y sin señas, solo dibujando y así sucesivamente hasta la primera persona de la hilera. El guía del juego evaluara los dibujos y determinara si merecen un punto o no, el equipo con más puntos al final del juego gana."
+    },
+    {	"title": "111. Ranitas",
+      "objectives": "Objetivos: Resistencia, fuerza, coordinación óculo-motriz, coordinación",
+      "image": "./images/ranitas.jpg",
+      "description": "Juego de competencia por equipos, serán 5 grupos, cada se ubicará en hileras en ubicaciones determinadas por el guía del juego en un espacio delimitado con lentejas. Cada participante del grupo deberá ir saltando en posición de ranita por las lentejas que estarán frente a ellos, y deberán voltear cada una de estas hasta llegar a un cono que tendrá una ficha que representara un punto, el primer participante que obtenga el punto (de los 5 de cada grupo que están compitiendo en esa ronda) se lo queda y se devuelve a su grupo rápidamente para que el siguiente integrante pueda salir a participar en la siguiente ronda, el equipo con más puntos gana el juego."
+    },
+    {	"title": "112. El semáforo",
+      "objectives": "Objetivos: Estrategia, agilidad, concentración, capacidad de reacción, velocidad",
+      "image": "./images/semaforo.jpg",
+      "description": "En una zona delimitada de juego (una cancha, por ejemplo), se ubicará una persona en un extremo de esta y todos los demás jugadores en el extremo contrario, la persona que está sola en un extremo será el semáforo. El objetivo de los jugadores será llegar hasta donde este ubicado el semáforo siguiendo las instrucciones que reciban y sin que este los descubra moviéndose, si el semáforo descubre a alguien moviéndose, esta persona deberá devolverse a la línea de partida; las instrucciones son: si el semáforo dice rojo significa detenerse, si dice verde significa avanzar (cuando diga verde el semáforo estará de espaldas y cuando diga rojo de frente a los participantes), la primera persona que llegue hasta donde el semáforo gana."
+    },
+    {	"title": "113. Zip Zap Zup",
+      "objectives": "Objetivos: Coordinación óculo-manual, concentración, trabajo en equipo",
+      "image": "./images/zip_zap.jpg",
+      "description": " Los participantes deberán formar un círculo. Una persona lanzará una pelota a cualquier otra dentro del círculo mientras dice la palabra “zip”. Quien recibe la pelota, la lanzará hacia otra persona, pero esta vez diciendo la palabra “zap”. El tercer jugador repetirá la misma acción, pero diciendo la palabra “zup” y así sucesivamente. La persona que reciba un “zup” y deba decir “zip” al momento de tirarla hacia otra persona deberá sentarse y seguir el ciclo, pero ya no podrá recibir la pelota ni tirarla, si a alguien se le cae la pelota al suelo, todos deberán pararse y el juego se reinicia, el juego termina cuando solo una o dos personas estén de pie y todos ganan."
+    },
+    {	"title": "114. Un Dos Tres",
+      "objectives": "Objetivos: Concentración, coordinación",
+      "image": "./images/un_dos.jpg",
+      "description": "Este juego es un juego de parejas, los integrantes de la pareja se posicionarán uno frente al otro y dirán 1, 2 y 3 consecutivamente y alternándose, luego los números puedes ser cambiados por movimientos del cuerpo que las personas creen y luego las parejas pueden combinarse entre sí."
+    },
+    {	"title": "115. Carrera Cultural",
+      "objectives": "Objetivos: Atención, memoria, creatividad, conocimiento de cultura general, tolerancia al fracaso y error",
+      "image": "./images/carrera_cultural.jpg",
+      "description": " Juego de competencia entre 3 equipos. Cada persona de cada equipo deberá contestar una pregunta de cultura general hecha por el guía del juego que será escogida al azar sacando un papel de un recipiente, las preguntas pueden ser del tipo individual (donde solo contestara el que saco la pregunta) o grupal (donde debe dar una respuesta cada integrante del grupo). Si contestan correctamente, se les da una tarjeta que representa un punto, si no, no se les entrega nada. El equipo que tenga a todos sus participantes con un punto gana el juego."
+    },
+    {	"title": "116. Comando",
+      "objectives": "Objetivos: Estrategia, habilidades físicas, resistencia, fuerza, equilibrio",
+      "image": "./images/comando.png",
+      "description": "Juego de competencia entre equipos de a 5 personas, en cada equipo se enumerarán cada persona del 1 al 5, tomando una carta de su número correspondiente. Los grupos se distribuirán en el área delimitada para comenzar a competir entre sí, cada integrante de un grupo contra otros de otros grupos, las competencias consistirán en intentar botar al contrincante estando en distintas posiciones (zumo, lagartija, etc.); si la persona que bota a la otra tiene un numero en su carta mayor al que boto, gana un punto, si es menor, no gana nada, como el último número es el 5, solo el 1 le gana al 5 y así sucesivamente. El equipo con más puntos al final del juego gana."
+    },
+    {	"title": "117. Fit games",
+      "objectives": "Objetivos: Recreación, liderazgo, cooperación, trabajo en equipo, estrategia",
+      "image": "./images/fit_games.jpg",
+      "description": "Los fit games son una competencia entre distintos cursos deportivos en que hay que realizar ciertos juegos vistos en clase y donde se evaluaran ciertas aptitudes y habilidades en estos (velocidad, fuerza, distancia, manejo, etc.), algunos de los juegos hechos aquí fueron: los troncos, la tubería, el barco, etc. Es un momento muy agradable y recreativo para poner en práctica aptitudes físicas y otras habilidades tales como compañerismo, trabajo en equipo, coordinación, resolución de problemas, etc."
+    },
+    {	"title": "118. La gran carrera de los tres pies",
+      "objectives": "Objetivos: Trabajo en equipo, comunicación, habilidades motoras, coordinación del cuerpo",
+      "image": "./images/tres_patas.jpg",
+      "description": "Juego en parejas. En un área delimitada, cada pareja se atará una pierna a la de su compañero con un pañolin, de manera que pasen a tener “3 pies” y se deberán posicionar en la línea de salida. El objetivo de cada pareja es llegar rápidamente al otro lado de la cancha, tocar una lenteja y volver a la línea inicial, la pareja que llegue primero gana y recibirá un dulce de premio."
+    },
+    {	"title": "119. Figuras",
+      "objectives": "Objetivos: Trabajo en equipo, comunicación, estrategia",
+      "image": "./images/figuras.jpeg",
+      "description": "Los integrantes se dividen en dos equipos, se vendan los ojos y se ponen alrededor de una cuerda circular. En cada ronda, cada equipo tendrá que formar una figura según las indicaciones del instructor. El equipo que logre formar la mayor cantidad de figuras más parecido a lo pedido, gana."
+    },
+    {	"title": "120. Nombres",
+      "objectives": "Objetivos: Conocer nombres, desarrollar lanzamiento, desarrollar agarre y mejorar precision",
+      "image": "./images/nombres.jpeg",
+      "description": "Un jugador comienza con el balón en las manos. El jugador debe decir el nombre de otro jugador y lanzar el balón hacia arriba, los demás jugadores tienen que correr lo más lejos del balón. El jugador cuyo nombre fue dicho debe atrapar el balón antes de que toque el suelo. Si lo logra, puede volver a decir un nombre y lanzar el balón hacia arriba. Si no lo logra, tiene que decir 'STOP' y todos los demás jugadores tienen que quedarse en su puesto. El jugador con el balón tiene que quemar a otro jugador y solo puede dar 3 pasos para lanzar el balón. Si le da a alguien, este queda eliminado, si no, el jugador que lanzo el balón queda eliminado. Gano el último jugador que queda en pie."
+    },
+    {	"title": "121. Dragones",
+      "objectives": "Objetivos: Comunicación, trabajo en equipo, reflejos y agilidad",
+      "image": "./images/dragones.jpeg",
+      "description": "Los integrantes se dividen en grupos de 6-8 participantes. Cada grupo forma una hilera y se agarra de los hombros del compañero que está al frente. El último jugador tendrá un pañolin en la cintura que tendrá que proteger, mientras que el primer jugador tiene que robar pañolines de los demás equipos. Gana el equipo que consiga más pañolines en un tiempo determinado."
+    },
+    {	"title": "122. Tiro al arco",
+      "objectives": "Objetivos: Desarrollar lanzamiento, trabajo en equipo y resistencia fisica",
+      "image": "./images/tiro_arco.jpeg",
+      "description": "Los integrantes se dividen en equipos de 6 a 12 participantes. Cada equipo forma una hilera y selecciona una persona que entregara pases. Al comenzar, cada integrante de la hilera tiene que intentar darle a algún aro del arco con un golpe de una o dos manos, esto luego de recibir un pase del 'pasador'. Gana el equipo que obtenga más puntos dándole a los aros."
+    },
+    {	"title": "123. Navegando",
+      "objectives": "Objetivos: Competitividad, reflejos y creatividad",
+      "image": "./images/navegando.jpeg",
+      "description": "Los integrantes se dividen en 4 equipos. Cada integrante de un equipo tiene que moverse con barco formado por un palo y 2 aros hasta un cono que estará a cierta distancia. Para moverse, los integrantes tienen que estar sobre un aro y mover el otro aro con el palo hasta llegar al cono. Luego, tiene que dar 3 vueltas con el aro y volver al punto de partida. Gana el equipo en que todos los participantes den una vuelta."
+    },
+    {	"title": "124. Ninja",
+      "objectives": "Objetivos: Reflejos y desarrollar visión periférica",
+      "image": "./images/ninja.jpeg",
+      "description": "Todos los participantes se reúnen en un círculo, con las manos al frente. Un jugador comienza el juego 'atacando' en una dirección definida. Para atacar, tiene que chocar rápidamente la mano del compañero adyacente y quedarse inmóvil luego de su movimiento. El jugador adyacente puede esquivar este ataque moviendo solamente las manos y quedándose inmóvil. Si el jugador atacante logra tocar la mano del jugador adyacente, este pierde una mano. Gana el último jugador que queda con manos para seguir jugando."
+    },
+    {	"title": "125. Palabras explosivas",
+      "objectives": "Objetivos: Creatividad, memoria, mantener la calma, desarrollar lanzamiento y agarre",
+      "image": "./images/palabras_explosivas.jpeg",
+      "description": "Los integrantes se dividen en grupos reducidos (7-12 personas) y se colocan en círculos. Cada grupo tendrá un balón que deberá ir pasando entre los integrantes del grupo hasta que el tiempo se acabe. Para pasar el balón al siguiente compañero, el participante tiene que nombrar una palabra que esté relacionada con el tema que entrego el instructor, esta palabra no se puede repetir. Si el jugador tiene el balón cuando se acaba el tiempo, pierde un punto. Gana el participante que tenga más puntos al terminar las rondas."
+    },
+    {	"title": "126. Pelea de jinetes",
+      "objectives": "Objetivos: Confianza, comunicacion y trabajo en equipo",
+      "image": "./images/jinete.jpeg",
+      "description": "Se dividen los participantes en dos equipos. Cada equipo tiene que mandar a dos personas a buscar unos pañolines que estarán al otro extremo de la cancha. Para ello, uno de los dos integrantes se tiene que subir encima del otro y usar un bastón/palo para obtener los pañolines. Gana el equipo que obtenga todos sus pañolines primero."
+    },
+    {	"title": "127. Búsqueda a ciegas",
+      "objectives": "Objetivos: Trabajo en equipo y desarrollo auditivo",
+      "image": "./images/busqueda_ciega.jpeg",
+      "description": "A cada participante se le entregará un papel con el nombre de un animal y tendrá que vendarse los ojos. Al comenzar el juego, el participante tendrá que hacer sonidos del animal que le toco y buscar a los demás participantes que tengan el mismo animal. Gana el equipo que logre juntar a todos sus integrantes primero."
+    },
+    {	"title": "128. Tricki-Track",
+      "objectives": "Objetivos: Competitividad, agilidad y trabajo en equipo",
+      "image": "./images/tricki.avif",
+      "description": "Los participantes se dividen en 3 equipos. Cada equipo competira en 3 pruebas que miden distintas habilidades (agilidad, trabajo en equipo y destreza). Gana el equipo que obtenga más puntos en las 3 pruebas."
+    },
+    {	"title": "129. Captura la pelotita",
+      "objectives": "Objetivos: Coordinación corporal, trabajo en equipo y reflejos",
+      "image": "./images/captura_pelotita.png",
+      "description": "Los integrantes se dividen en dos equipos. Cada equipo tiene una pequeña área con conos y pelotitas dentro de cada cono. Al comenzar el juego, cada equipo tiene que intentar robar las pelotitas del área del otro equipo y llevarlas a su área. Si un jugador es tocado por un jugador del otro equipo en su área, queda congelado y tiene que esperar que otro compañero lo descongele. No se pueden congelar a un rival en la zona de pelotitas. Gana el equipo que robe todas las pelotitas primero."
+    },
+    {	"title": "130. V/S de Fubo",
+      "objectives": "Objetivos: Trabajo en equipo, desarrollo de la precision y manejo de balon con los pies",
+      "image": "./images/vs_futbol.jpeg",
+      "description": "Los participantes se dividen en dos equipos. En cada ronda, cada equipo tiene que elegir a dos representantes. Estos dos representantes se enfrentarán en una competencia estilo futbol-handball. Para hacer un gol, un jugador tiene que pegarle al balón desde afuera del área y darle a los conos que estarán dentro de los arcos. Al terminar una ronda, se cambian los representantes. Gana el equipo con más goles."
     }
 ]
