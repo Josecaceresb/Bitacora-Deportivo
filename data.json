@@ -552,10 +552,30 @@
       "image": "./images/comando.png",
       "description": "Juego de competencia entre equipos de a 5 personas, en cada equipo se enumerarán cada persona del 1 al 5, tomando una carta de su número correspondiente. Los grupos se distribuirán en el área delimitada para comenzar a competir entre sí, cada integrante de un grupo contra otros de otros grupos, las competencias consistirán en intentar botar al contrincante estando en distintas posiciones (zumo, lagartija, etc.); si la persona que bota a la otra tiene un numero en su carta mayor al que boto, gana un punto, si es menor, no gana nada, como el último número es el 5, solo el 1 le gana al 5 y así sucesivamente. El equipo con más puntos al final del juego gana."
     },
-    {	"title": "117. Fit games",
-      "objectives": "Objetivos: Recreación, liderazgo, cooperación, trabajo en equipo, estrategia",
-      "image": "./images/fit_games.jpg",
-      "description": "Los fit games son una competencia entre distintos cursos deportivos en que hay que realizar ciertos juegos vistos en clase y donde se evaluaran ciertas aptitudes y habilidades en estos (velocidad, fuerza, distancia, manejo, etc.), algunos de los juegos hechos aquí fueron: los troncos, la tubería, el barco, etc. Es un momento muy agradable y recreativo para poner en práctica aptitudes físicas y otras habilidades tales como compañerismo, trabajo en equipo, coordinación, resolución de problemas, etc."
+    {	"title": "117. FITGAMES Balsa",
+      "objectives": "Objetivos: Coordinación óculo-manual, concentración, trabajo en equipo, fuerza, equilibrio",
+      "image": "./images/balsa.jpg",
+      "description": "Juego hecho en la edición de los fitgames primer semestre 2023. Es un juego de competencia por equipos, dos equipos deberán trasladarse ida y vuelta en una balsa hecha por una tabla de madera sobre barriles, la forma de avanzar será con 4 personas sin subirse a la balsa, dos detrás y dos delante, mientras todos los demás están encima de esta, siendo dos personas arriba las que impulsen con palos gigantes a la balsa, cuando la balsa vaya moviéndose hacia adelante, se desocupara un barril del final, las personas que están abajo y detrás de la balsa tendrán que tomar el barril y ponerlo encima de esta para que la gente de arriba lo pase hacia las otras dos personas de adelante y que lo pongan adelante y debajo de la balsa. El equipo que llegue primero en el recorrido ida y vuelta, gana el juego."
+    },
+    { "title": "117. FITGAME Rueda",
+      "objectives": "Objetivos: Fuerza, trabajo en equipo, estrategia",
+      "image": "./images/rueda.png",
+      "description": "Juego hecho en la edición de los fitgames primer semestre 2023. Sera una competencia por equipos, cada equipo se dividirá en distintas parejas, las cuales deberán llevar ida y vuelta un neumático de camión, sin poder rodarlo, solo dándole vuelta para que se mueva, el primer equipo que logre que todas sus parejas hagan este procedimiento gana"
+    },
+    {	"title": "117. FITGAME Hamster",
+      "objectives": "Objetivos: Trabajo en equipo, comunicación, estrategia, liderazgo",
+      "image": "./images/hamster.jpg",
+      "description": "Juego hecho en la edición de los fitgames primer semestre 2023. Es una competencia de equipos, cada equipo de alrededor 12-13 personas se pondrá dentro de un pedazo de tela u otro material que simule la rueda de un hámster, donde las 12 personas deberán trabajar en conjunto para ir ida y vuelta desde un balde con agua hasta uno sin agua, el objetivo de cada equipo será llevar un vaso con agua para llenar el balde vacío en un límite de tiempo establecido, el equipo que llene con más agua el balde inicialmente vacío gana el juego"
+    },
+    {	"title": "117. FITGAME: Canaleta",
+      "objectives": "Objetivos: Estrategia, equilibrio, resistencia, trabajo en equipo, liderazgo",
+      "image": "./images/canaleta_fit.jpg",
+      "description": "Juego hecho en la edición de los fitgames primer semestre 2023. Es un juego de competencia por equipos, cada equipo tendrá tubos, cada integrante deberá tomar un tubo y ponerlo detrás de otro que tenga otro participante simulando una canaleta, a través de esta canaleta deberán pasar agua desde un balde lleno hasta uno vacío que estará a cierta distancia, el modo de hacerlo será cuando el tubo de atrás este vacío, deberá correr y ponerlo hacia delante de la fila para que siga corriendo el agua, todo esto en un límite de tiempo establecido, el equipo que haya logrado llenar con más agua el balde inicialmente vacío gana el juego"
+    },
+    {	"title": "117. FITGAME: Puente Palos",
+      "objectives": "Objetivos: Fuerza, habilidades físicas, estrategia, trabajo en equipo, liderazgo, resistencia",
+      "image": "./images/puente_palos.jpg",
+      "description": "Juego hecho en la edición de los fitgames primer semestre 2023. Sera un juego de competencia por equipos, cada equipo deberá poner a sus integrantes en dos hileras una al lado de la otra, y entre estas hileras troncos o palos, formando así un puente, el modo de juego será el siguiente: las dos personas al final de las hileras deberán pasar por arriba del puente hasta el inicio, para posteriormente pasar los troncos/palos hacia delante y que la siguiente pareja pueda pasar, esto ida y vuelta en una cierta distancia establecida anteriormente y en un límite de tiempo, el equipo que más distancia haya recorrido siguiendo esta forma de trasladarse gana el juego"
     },
     {	"title": "118. La gran carrera de los tres pies",
       "objectives": "Objetivos: Trabajo en equipo, comunicación, habilidades motoras, coordinación del cuerpo",
