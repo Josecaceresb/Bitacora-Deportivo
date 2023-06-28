@@ -642,6 +642,21 @@
       "image": "./images/vs_futbol.jpeg",
       "description": "Los participantes se dividen en dos equipos. En cada ronda, cada equipo tiene que elegir a dos representantes. Estos dos representantes se enfrentarán en una competencia estilo futbol-handball. Para hacer un gol, un jugador tiene que pegarle al balón desde afuera del área y darle a los conos que estarán dentro de los arcos. Al terminar una ronda, se cambian los representantes. Gana el equipo con más goles."
     },
+    {	"title": "131. Frisbee al aro",
+      "objectives": "Objetivos: Habilidades motoras, agilidad y estrategia",
+      "image": "./images/frisbee_aro.jpg",
+      "description": "Los participantes se separan en equipo, en donde cada equipo tendrá que realizar un circuito, de forma individual y turnada tendrán que lanzar una pelota con el fin de que pase por el interior del aro y cada vez será con más dificultad, gana el equipo que lo complete de forma más rápida."
+    },
+    {	"title": "132. El reloj",
+      "objectives": "Objetivos: Habilidades motoras, agilidad y trabajo en equipo",
+      "image": "./images/reloj.jpg",
+      "description": "Los participantes se separan en grupos y formar una hilera, en donde el primero de la hilera tendrá que correr para tocar al último, mientras el resto del equipo sin soltarse tendrá que rotar como si fuera un reloj para evitar que el primero cumpla su cometido."
+    },
+    {	"title": "133. El abanico",
+      "objectives": "Objetivos: Habilidades motoras, estrategia y trabajo en equipo",
+      "image": "./images/abanico.jpg",
+      "description": "Los participantes se separan en grupos, en donde los grupos tendrán que imitar la forma de un abanico, mientras los miembros se están moviendo, los que parten en el piso, se levantan y se vuelven a estar en el piso."
+    },
     {	"title": "134. Quemadas",
       "objectives": "Objetivos: Habilidades motoras, agilidad y trabajo en equipo",
       "image": "./images/quemadas.jpg",
