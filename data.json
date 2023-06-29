@@ -477,6 +477,12 @@
       "description": "Los participantes se ponen en un círculo y se elige a dos participantes al azar que tendrán que pasar al medio. Uno actuará como ratón y el otro como gato. El gato persigue al ratón hasta tocarlo, si lo toco cambian de roles. Si un ratón llega a pasar entremedio de dos personas en el círculo, deja de ser perseguido y la persona a la derecha se convierta en gato y el gato que estaba persiguiendo se convierte en ratón."
     },
     {
+      "title": "96. Canción del tren",
+      "objectives": "Objetivos: Reacción, pensamiento rapido y coordinación",
+      "image": "./images/cancion_tren.jpeg",
+      "description": "El instructor, en cada ronda, dirá un conjunto de acciones y las realizará. Los demás participantes tienen que realizar la acción contraria a la dicha por el instructor, por ejemplo, si el instructor dice 'derecha', los participantes tiene que moverse a la izquierda."
+    },
+    {
       "title": "97. Circuito eléctrico",
       "objectives": "Objetivos: Reflejos, trabajo en equipo, agilidad",
       "image": "./images/circuito_electrico.webp",
@@ -491,6 +497,11 @@
       "objectives": "Objetivos: Trabajar en equipo, Realizar actividades predeportivas, Desarrollar habilidades motoras de atrape y lanzamiento ",
       "image": "./images/pase_corto.jpg",
       "description": "Se forman equipos de a 6 y luego se colocan los jugadores en una hilera, formando parejas que esten espalda con espalda. La última persona de la hilera debe lanzar un balon a la persona que es primera en la hilera. Cuando esta lo atrape, el ultimo corre hasta donde estaba el primer y lanza la pelota al jugador que ahora a quedado como el ultimo de la hilera. Este proceso se repite de manera que la hilera de cada equipo vaya avanzando. Eben llegar al final de la cancha y volver de esta manera. Gana el equipo que lo haga más rápido."
+    },
+    {	"title": "100. El sky",
+      "objectives": "Objetivos: Trabajo en equipo, coordinación, liderazgo",
+      "image": "./images/sky.avif",
+      "description": "Los integrantes se dividen en grupos de mínimo 8 personas. En cada ronda, 4 integrantes de un grupo tienen que colocarse encima de dos tablas de madera, uno en enfrente del otro y ajustar sus pies con una cuerda y sostenerla con las dos manos. Al comenzar cada ronda, los 4 participantes tienen que caminar coordinadamente moviendo las dos tablas como si fuera un sky hasta una distancia determinada y cambiar con otros 4 integrantes de su grupo. Gana el equipo que realice más vueltas."
     },
     {	"title": "101. Canaleta",
       "objectives": "Objetivos: Trabajo en equipo, coordinacion, estrategia y esfuerzo",
@@ -731,6 +742,12 @@
       "objectives": "Objetivos:  Practicar la coordinación, Desarrollar memoria y recordar patrones, Enfocar la atención en una sola tarea",
       "image": "./images/clip_clap.jpg",
       "description": " Todos los jugadores se ubican en un círculo. Uno de ellos tiene un lápiz que se ira pasando de jugador a jugador en sentido horario. Para pasar el lápiz el jugador que lo tienen en la mano tiene que decir al de su derecha: “esto es un clip” a lo que el otro responde “un qué?” entonces el jugador con el lápiz en la mano le pregunta al jugador a su izquierda “un qué?”. Y esto se va preguntando hasta llegar a quien partió originalmente con el lápiz. Luego se pasa la respuesta de “un clip” hasta llegar al que pregunte Así va avanzando. Después se hace lo mismo, pero con otro lápiz y en sentido antihorario. La idea es no confundirse con el clip, y clap dando vuelta. Y que ambos logren dar una vuelta entera."
+    },
+    {
+      "title": "145. Mi tio fue",
+      "objectives": "Objetivos: Coordinación individual, percepción auditiva, memoria",
+      "image": "./images/mi_tio.jpeg",
+      "description": "Todos los participantes se reúnen en un círculo. El instructor comenzará diciendo: 'Mi tío fue...', nombrara una acción y la realizara, luego los demás participantes tienen que repetir lo que dijo y realizar las acciones. Posteriormente, el instructor sigue nombrando acciones hasta que los participantes se olviden de alguna de las acciones a imitar."
     },
     {	"title": "146. Pacman",
       "objectives": "Objetivos:  Practicar la rapidez, Predeportivo, Trabajar el sentido de orientacion",
