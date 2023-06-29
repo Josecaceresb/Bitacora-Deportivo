@@ -264,6 +264,16 @@
       "image": "./images/kahoot.png",
       "description": "Juego online que sirvió de preparación para la prueba. En este se presentan ciertas preguntas de los contenidos vistos en clases teóricas y de cultura general, con 4 opciones normalmente cada uno, si se responde correctamente, se recibe un puntaje, entre más rápido se conteste, más puntaje se obtiene, la persona con más puntos al final del kahoot gana."
     },
+    {	"title": "54. El tornado",
+      "objectives": "Objetivos: Trabajar en equipo, Realizar actividades predeportivas, Practicar la rapidez ",
+      "image": "./images/tornado.png",
+      "description": "Primero, se forma un a hilera con todos los jugadores. El último de la hilera debe correr hasta el inicio de esta, mientras los demás lo siguen en el orden de la hilera. Al repetir este movimiento, el grupo entero va avanzando mientras corren y giran. Al jugar esto en equipos, gana el equipo que llegue hasta la meta primero."
+    },
+    {	"title": "55. El sapito",
+      "objectives": "Objetivos:  Trabajar en equipo, Realizar actividades predeportivas, Practicar la habilidad del salto",
+      "image": "./images/sapito.png",
+      "description": "se forman dos equipos que se colocaran en hilera en un extremo de la cancha, con distancia entre cada integrante del equipo. Los jugadores deben agacharse y el ultimo jugador de la hilera de cada equipo debe saltar a sus compañeros, hasta llegar al comienzo de la hilera. Esto se realiza hasta que todos hayan pasado, al menos un equipo haya logrado pasar completamente la meta. "
+    },
     {	"title": "56. Invasión",
       "objectives": "Objetivos: Trabajo en equipo, estrategia, desarrollo lanzamiento y reflejos",
       "image": "./images/invasion.jpeg",
@@ -360,9 +370,9 @@
       "description": "Los participantes se separan en grupo y forman una hilera, luego se deben sentar y tomar el tobillo de quien este atrás, con el fin de desplazarse de esta forma, gana el equipo que llegue primero."
     },
     {	"title": "75. Merengue",
-      "objectives": "Objetivos: Coordinación, agilidad y destreza",
+      "objectives": "Objetivos:  Practicar la rapidez, Trabajar en equipo, Practicar la coordinación con otros ",
       "image": "./images/merengue.jpg",
-      "description": "."
+      "description": "Se forman dos equipos que se colocaran en fila, todos tomados de la mano. Sin soltarse, el primero de la fila debe pasar por debajo de las manos tomadas de sus compañeros que están a su lado. Esto se va realizando en zigzag hasta que se lleva a la meta"
     },
     { "title": "76. Vuelta al mundo",
       "objectives": "Objetivos: Trabajo en equipo, agilidad y destreza",
@@ -471,6 +481,16 @@
       "objectives": "Objetivos: Reflejos, trabajo en equipo, agilidad",
       "image": "./images/circuito_electrico.webp",
       "description": "Los integrantes se dividen en dos equipos y se colocan en hileras, donde el primero de cada equipo le da la mano al instructor. El instructor apretará cada mano y cada grupo tendrá que pasar este apretón hasta el último integrante. Cuando el último participante reciba el apretón, tendrá que correr hacia un cono que estará en un área específica. El equipo que obtenga más conos gana."
+    },
+    {	"title": "98. Pinta más ",
+      "objectives": "Objetivos:  Practicar la rapidez, Esquivar y tener buenos reflejos, Realizar actividades predeportivas ",
+      "image": "./images/pinta_mas.jpg",
+      "description": "El objetivo es tocar a la mayor cantidad de jugadores en base a una regla decidida cada ronda por un tercero. Todos los jugadores se encuentran trotando por la cancha, cuando el tercero diga, por ejemplo “quien dé más abrazos” o “quien toque más codos”, todos los jugadores tratan de pintar a la mayor cantidad de personas posibles en un tiempo limitado según la regla dicha esa ronda. Al final de cada ronda se contabiliza a cuantos pintaron cada jugador y el que haya logrado el numero mayor gana. "
+    },
+    {	"title": "99. Pase corto",
+      "objectives": "Objetivos: Trabajar en equipo, Realizar actividades predeportivas, Desarrollar habilidades motoras de atrape y lanzamiento ",
+      "image": "./images/pase_corto.jpg",
+      "description": "Se forman equipos de a 6 y luego se colocan los jugadores en una hilera, formando parejas que esten espalda con espalda. La última persona de la hilera debe lanzar un balon a la persona que es primera en la hilera. Cuando esta lo atrape, el ultimo corre hasta donde estaba el primer y lanza la pelota al jugador que ahora a quedado como el ultimo de la hilera. Este proceso se repite de manera que la hilera de cada equipo vaya avanzando. Eben llegar al final de la cancha y volver de esta manera. Gana el equipo que lo haga más rápido."
     },
     {	"title": "101. Canaleta",
       "objectives": "Objetivos: Trabajo en equipo, coordinacion, estrategia y esfuerzo",
@@ -691,5 +711,30 @@
       "objectives": "Objetivos: Estrategia, agilidad y trabajo en equipo",
       "image": "./images/tesoro.jpg",
       "description": "Los participantes se separan en grupo y los grupo por medio de pistas que guían a otros lugares van avanzando hasta llegar a la última pista que los llega al tesoro."
+    },
+    {	"title": "141. Bosque encantado",
+      "objectives": "Objetivos:  Practicar la rapidez, Esquivar y tener buenos reflejos, Utilizar estrategia ",
+      "image": "./images/bosque_encantado.jpg",
+      "description": " Todos los jugadores comienzan al inicio de la cancha en fila, excepto uno. Ese jugador se ubicará en el medio de la cancha y será el hechicero. Los demás jugadores deberán llegar hasta el otro lado de la cancha sin que los toque el hechicero. Si los toca, deben quedarse quietos y pasan a ser arboles del bosque encantado. No pueden moverse de lugar, pero deben tratar de tocar a los demás que pasan por la cancha durante cada ronda. El juego termina cuando todos los jugadores se vuelven parte del bosque encantado"
+    },
+    {	"title": "142. Colpball ",
+      "objectives": "Objetivos:  Practicar la rapidez, Trabajar en equipo, Desarrollar habilidades motoras",
+      "image": "./images/colpball.jpg",
+      "description": "Se forman dos equipos. Los jugadores tienen que lanzar la pelota para que este pase por el arco del equipo contrario. La pelota solo se puede pasar de jugador a jugador dándole golpes con la palma de la mano. La pelota no se puede agarrar, y cada jugador debe golpearla solo una vez antes de marcar un punto en el arco."
+    },
+    {	"title": "143. Aplauso gaucho",
+      "objectives": "Objetivos: Felicitar, Desarrollar coordinación en equipos, Practicar la memoria de patrones",
+      "image": "./images/aplauso_gaucho.jpg",
+      "description": "Se debe cantar una canción coordinándolo con movimientos específicos. Primero se zapatea 3 veces, luego se golpean los muslos 5 veces. Luego se aplaude 5 veces y se vuelve a golpear los muslos 5 veces más. Por último, se aplaude dos veces más y se termina con un grito de: “Hey!”. Todo esto al ritmo del canto y acompañado de letra. "
+    },
+    {	"title": "145. Clip-clap",
+      "objectives": "Objetivos:  Practicar la coordinación, Desarrollar memoria y recordar patrones, Enfocar la atención en una sola tarea",
+      "image": "./images/clip_clap.jpg",
+      "description": " Todos los jugadores se ubican en un círculo. Uno de ellos tiene un lápiz que se ira pasando de jugador a jugador en sentido horario. Para pasar el lápiz el jugador que lo tienen en la mano tiene que decir al de su derecha: “esto es un clip” a lo que el otro responde “un qué?” entonces el jugador con el lápiz en la mano le pregunta al jugador a su izquierda “un qué?”. Y esto se va preguntando hasta llegar a quien partió originalmente con el lápiz. Luego se pasa la respuesta de “un clip” hasta llegar al que pregunte Así va avanzando. Después se hace lo mismo, pero con otro lápiz y en sentido antihorario. La idea es no confundirse con el clip, y clap dando vuelta. Y que ambos logren dar una vuelta entera."
+    },
+    {	"title": "146. Pacman",
+      "objectives": "Objetivos:  Practicar la rapidez, Predeportivo, Trabajar el sentido de orientacion",
+      "image": "./images/pacman.jpg",
+      "description": "Primero se crean los caminos en la cancha utilizando lentejas. Estas son líneas que van por el borde de la cancha y hacia el centro. Por estos caminos es el único lugar por el cual se pueden mover los pac-mans, que son la mayoría de los jugadores. 4 o más jugadores serán los fantasmas, identificados por un peto. Estos tienen que tratar de atrapar a cualquier pac-man. Cuando lo hacen, intercambian roles entre pac-man y fantasmas y siguen jugando. De apoco se van eliminando caminos posibles para los pacmans, por lo que el juego se va haciendo más difícil. "
     }
 ]
